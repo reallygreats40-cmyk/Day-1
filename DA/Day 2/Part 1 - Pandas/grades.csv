@@ -1,0 +1,1621 @@
+record_id,student_id,subject,academic_year,term,percentage,grade,effort,teacher_id,predicted_grade
+1,S007,Mathematics,2024-25,Autumn,68,C,3,T01,B
+2,S007,Mathematics,2024-25,Spring,73,B,4,T02,B
+3,S007,Mathematics,2024-25,Summer,80,A,1,T01,A
+4,S007,English Language,2024-25,Autumn,63,C,5,T04,B
+5,S007,English Language,2024-25,Spring,75,B,3,T04,A
+6,S007,English Language,2024-25,Summer,58,D,5,T04,C
+7,S007,Biology,2024-25,Autumn,73,B,5,T05,C
+8,S007,Biology,2024-25,Spring,64,C,3,T05,B
+9,S007,Biology,2024-25,Summer,69,C,3,T05,C
+10,S007,Chemistry,2024-25,Autumn,64,C,3,T06,C
+11,S007,Chemistry,2024-25,Spring,58,D,4,T06,C
+12,S007,Chemistry,2024-25,Summer,77,B,4,T06,B
+13,S007,Physics,2024-25,Autumn,56,D,3,T07,C
+14,S007,Physics,2024-25,Spring,62,C,5,T07,C
+15,S007,Physics,2024-25,Summer,79,B,4,T07,A
+16,S007,History,2024-25,Autumn,76,B,3,T08,A
+17,S007,History,2024-25,Spring,65,C,5,T08,C
+18,S007,History,2024-25,Summer,71,B,4,T08,B
+19,S007,Geography,2024-25,Autumn,,,,T09,B
+20,S007,Geography,2024-25,Spring,67,C,4,T09,B
+21,S007,Geography,2024-25,Summer,63,C,3,T09,B
+22,S007,French,2024-25,Autumn,65,C,4,T10,C
+23,S007,French,2024-25,Spring,70,B,5,T10,B
+24,S007,French,2024-25,Summer,81,A,4,T10,B
+25,S007,Computing,2024-25,Autumn,65,C,3,T11,C
+26,S007,Computing,2024-25,Spring,76,B,2,T11,A
+27,S007,Computing,2024-25,Summer,50,D,2,T11,D
+28,S007,Art & Design,2024-25,Autumn,68,C,4,T12,B
+29,S007,Art & Design,2024-25,Spring,64,C,4,T12,B
+30,S007,Art & Design,2024-25,Summer,,,,T12,B
+31,S008,Mathematics,2024-25,Autumn,60,C,1,T01,C
+32,S008,Mathematics,2024-25,Spring,84,A,2,T01,A
+33,S008,Mathematics,2024-25,Summer,61,C,4,T02,C
+34,S008,English Language,2024-25,Autumn,62,C,2,T04,C
+35,S008,English Language,2024-25,Spring,57,D,2,T03,C
+36,S008,English Language,2024-25,Summer,68,C,2,T03,C
+37,S008,Biology,2024-25,Autumn,63,C,3,T05,C
+38,S008,Biology,2024-25,Spring,83,A,5,T05,A*
+39,S008,Biology,2024-25,Summer,86,A,5,T05,A
+40,S008,Chemistry,2024-25,Autumn,65,C,3,T06,C
+41,S008,Chemistry,2024-25,Spring,78,B,5,T06,A
+42,S008,Chemistry,2024-25,Summer,66,C,4,T06,C
+43,S008,Physics,2024-25,Autumn,64,C,4,T07,A
+44,S008,Physics,2024-25,Spring,80,A,4,T07,A
+45,S008,Physics,2024-25,Summer,55,D,2,T07,D
+46,S008,History,2024-25,Autumn,71,B,5,T08,B
+47,S008,History,2024-25,Spring,74,B,4,T08,B
+48,S008,History,2024-25,Summer,74,B,3,T08,A
+49,S008,Geography,2024-25,Autumn,,,,T09,C
+50,S008,Geography,2024-25,Spring,63,C,2,T09,C
+51,S008,Geography,2024-25,Summer,75,B,2,T09,A
+52,S008,French,2024-25,Autumn,79,B,4,T10,A*
+53,S008,French,2024-25,Spring,53,D,2,T10,D
+54,S008,French,2024-25,Summer,81,A,3,T10,B
+55,S008,Computing,2024-25,Autumn,69,C,4,T11,C
+56,S008,Computing,2024-25,Spring,70,B,2,T11,A
+57,S008,Computing,2024-25,Summer,77,B,2,T11,A
+58,S008,Art & Design,2024-25,Autumn,59,D,4,T12,C
+59,S008,Art & Design,2024-25,Spring,83,A,4,T12,B
+60,S008,Art & Design,2024-25,Summer,73,B,3,T12,B
+61,S009,Mathematics,2024-25,Autumn,74,B,2,T02,A
+62,S009,Mathematics,2024-25,Spring,66,C,3,T01,B
+63,S009,Mathematics,2024-25,Summer,66,C,1,T02,B
+64,S009,English Language,2024-25,Autumn,60,C,4,T03,C
+65,S009,English Language,2024-25,Spring,82,A,5,T04,A
+66,S009,English Language,2024-25,Summer,82,A,3,T03,A
+67,S009,Biology,2024-25,Autumn,79,B,3,T05,A
+68,S009,Biology,2024-25,Spring,66,C,3,T05,B
+69,S009,Biology,2024-25,Summer,66,C,3,T05,B
+70,S009,Chemistry,2024-25,Autumn,70,B,4,T06,C
+71,S009,Chemistry,2024-25,Spring,62,C,4,T06,B
+72,S009,Chemistry,2024-25,Summer,70,B,5,T06,B
+73,S009,Physics,2024-25,Autumn,70,B,3,T07,B
+74,S009,Physics,2024-25,Spring,64,C,4,T07,C
+75,S009,Physics,2024-25,Summer,79,B,3,T07,B
+76,S009,History,2024-25,Autumn,52,D,3,T08,D
+77,S009,History,2024-25,Spring,73,B,4,T08,B
+78,S009,History,2024-25,Summer,70,B,4,T08,B
+79,S009,Geography,2024-25,Autumn,62,C,4,T09,C
+80,S009,Geography,2024-25,Spring,56,D,3,T09,C
+81,S009,Geography,2024-25,Summer,70,B,4,T09,C
+82,S009,French,2024-25,Autumn,72,B,4,T10,B
+83,S009,French,2024-25,Spring,68,C,1,T10,B
+84,S009,French,2024-25,Summer,62,C,4,T10,C
+85,S009,Computing,2024-25,Autumn,70,B,4,T11,C
+86,S009,Computing,2024-25,Spring,47,E,5,T11,E
+87,S009,Computing,2024-25,Summer,60,C,5,T11,B
+88,S009,Art & Design,2024-25,Autumn,60,C,3,T12,C
+89,S009,Art & Design,2024-25,Spring,62,C,4,T12,C
+90,S009,Art & Design,2024-25,Summer,71,B,3,T12,B
+91,S010,Mathematics,2024-25,Autumn,58,D,3,T02,C
+92,S010,Mathematics,2024-25,Spring,53,D,3,T02,D
+93,S010,Mathematics,2024-25,Summer,64,C,1,T02,D
+94,S010,English Language,2024-25,Autumn,67,C,3,T04,C
+95,S010,English Language,2024-25,Spring,60,C,5,T04,D
+96,S010,English Language,2024-25,Summer,59,D,3,T04,C
+97,S010,Biology,2024-25,Autumn,71,B,5,T05,C
+98,S010,Biology,2024-25,Spring,51,D,2,T05,D
+99,S010,Biology,2024-25,Summer,59,D,3,T05,C
+100,S010,Chemistry,2024-25,Autumn,53,D,3,T06,C
+101,S010,Chemistry,2024-25,Spring,63,C,4,T06,C
+102,S010,Chemistry,2024-25,Summer,79,B,1,T06,A
+103,S010,Physics,2024-25,Autumn,62,C,3,T07,C
+104,S010,Physics,2024-25,Spring,76,B,4,T07,A
+105,S010,Physics,2024-25,Summer,67,C,4,T07,B
+106,S010,History,2024-25,Autumn,65,C,4,T08,B
+107,S010,History,2024-25,Spring,68,C,5,T08,C
+108,S010,History,2024-25,Summer,57,D,2,T08,D
+109,S010,Geography,2024-25,Autumn,58,D,5,T09,C
+110,S010,Geography,2024-25,Spring,,,,T09,D
+111,S010,Geography,2024-25,Summer,53,D,3,T09,D
+112,S010,French,2024-25,Autumn,67,C,3,T10,C
+113,S010,French,2024-25,Spring,73,B,4,T10,B
+114,S010,French,2024-25,Summer,62,C,3,T10,B
+115,S010,Computing,2024-25,Autumn,50,D,3,T11,D
+116,S010,Computing,2024-25,Spring,57,D,3,T11,C
+117,S010,Computing,2024-25,Summer,70,B,3,T11,C
+118,S010,Art & Design,2024-25,Autumn,63,C,3,T12,C
+119,S010,Art & Design,2024-25,Spring,56,D,4,T12,D
+120,S010,Art & Design,2024-25,Summer,56,D,4,T12,C
+121,S011,Mathematics,2024-25,Autumn,48,E,4,T02,E
+122,S011,Mathematics,2024-25,Spring,57,D,3,T01,D
+123,S011,Mathematics,2024-25,Summer,62,C,4,T01,C
+124,S011,English Language,2024-25,Autumn,59,D,5,T04,B
+125,S011,English Language,2024-25,Spring,48,E,3,T04,D
+126,S011,English Language,2024-25,Summer,50,D,5,T04,D
+127,S011,Biology,2024-25,Autumn,46,E,4,T05,E
+128,S011,Biology,2024-25,Spring,45,E,3,T05,E
+129,S011,Biology,2024-25,Summer,65,C,2,T05,B
+130,S011,Chemistry,2024-25,Autumn,55,D,2,T06,C
+131,S011,Chemistry,2024-25,Spring,53,D,3,T06,D
+132,S011,Chemistry,2024-25,Summer,42,E,3,T06,E
+133,S011,Physics,2024-25,Autumn,60,C,4,T07,C
+134,S011,Physics,2024-25,Spring,45,E,3,T07,D
+135,S011,Physics,2024-25,Summer,56,D,4,T07,C
+136,S011,History,2024-25,Autumn,62,C,4,T08,B
+137,S011,History,2024-25,Spring,43,E,4,T08,E
+138,S011,History,2024-25,Summer,54,D,5,T08,C
+139,S011,Geography,2024-25,Autumn,52,D,4,T09,D
+140,S011,Geography,2024-25,Spring,53,D,3,T09,D
+141,S011,Geography,2024-25,Summer,,,,T09,D
+142,S011,French,2024-25,Autumn,39,U,3,T10,E
+143,S011,French,2024-25,Spring,49,E,1,T10,E
+144,S011,French,2024-25,Summer,52,D,3,T10,D
+145,S011,Computing,2024-25,Autumn,43,E,3,T11,E
+146,S011,Computing,2024-25,Spring,53,D,3,T11,D
+147,S011,Computing,2024-25,Summer,68,C,4,T11,B
+148,S011,Art & Design,2024-25,Autumn,53,D,4,T12,D
+149,S011,Art & Design,2024-25,Spring,41,E,3,T12,E
+150,S011,Art & Design,2024-25,Summer,43,E,2,T12,U
+151,S012,Mathematics,2024-25,Autumn,53,D,5,T01,D
+152,S012,Mathematics,2024-25,Spring,54,D,3,T01,D
+153,S012,Mathematics,2024-25,Summer,62,C,2,T01,C
+154,S012,English Language,2024-25,Autumn,53,D,3,T04,D
+155,S012,English Language,2024-25,Spring,55,D,3,T03,C
+156,S012,English Language,2024-25,Summer,52,D,3,T04,C
+157,S012,Biology,2024-25,Autumn,53,D,4,T05,C
+158,S012,Biology,2024-25,Spring,46,E,3,T05,D
+159,S012,Biology,2024-25,Summer,52,D,4,T05,D
+160,S012,Chemistry,2024-25,Autumn,55,D,4,T06,D
+161,S012,Chemistry,2024-25,Spring,47,E,5,T06,E
+162,S012,Chemistry,2024-25,Summer,69,C,3,T06,A
+163,S012,Physics,2024-25,Autumn,45,E,4,T07,D
+164,S012,Physics,2024-25,Spring,52,D,4,T07,D
+165,S012,Physics,2024-25,Summer,50,D,5,T07,E
+166,S012,History,2024-25,Autumn,43,E,4,T08,U
+167,S012,History,2024-25,Spring,56,D,3,T08,C
+168,S012,History,2024-25,Summer,51,D,4,T08,D
+169,S012,Geography,2024-25,Autumn,49,E,1,T09,E
+170,S012,Geography,2024-25,Spring,51,D,4,T09,D
+171,S012,Geography,2024-25,Summer,69,C,4,T09,B
+172,S012,French,2024-25,Autumn,49,E,4,T10,D
+173,S012,French,2024-25,Spring,69,C,5,T10,B
+174,S012,French,2024-25,Summer,77,B,3,T10,B
+175,S012,Computing,2024-25,Autumn,48,E,5,T11,D
+176,S012,Computing,2024-25,Spring,,,,T11,D
+177,S012,Computing,2024-25,Summer,58,D,1,T11,D
+178,S012,Art & Design,2024-25,Autumn,54,D,5,T12,E
+179,S012,Art & Design,2024-25,Spring,48,E,4,T12,D
+180,S012,Art & Design,2024-25,Summer,,,,T12,C
+181,S013,Mathematics,2023-24,Autumn,63,C,5,T02,C
+182,S013,Mathematics,2023-24,Spring,55,D,4,T02,E
+183,S013,Mathematics,2023-24,Summer,56,D,3,T02,C
+184,S013,English Language,2023-24,Autumn,58,D,5,T04,C
+185,S013,English Language,2023-24,Spring,59,D,5,T04,B
+186,S013,English Language,2023-24,Summer,57,D,4,T03,C
+187,S013,Biology,2023-24,Autumn,64,C,4,T05,D
+188,S013,Biology,2023-24,Spring,52,D,2,T05,E
+189,S013,Biology,2023-24,Summer,62,C,3,T05,C
+190,S013,Chemistry,2023-24,Autumn,,,,T06,D
+191,S013,Chemistry,2023-24,Spring,61,C,5,T06,B
+192,S013,Chemistry,2023-24,Summer,69,C,4,T06,C
+193,S013,Physics,2023-24,Autumn,53,D,4,T07,E
+194,S013,Physics,2023-24,Spring,47,E,4,T07,U
+195,S013,Physics,2023-24,Summer,67,C,2,T07,D
+196,S013,History,2023-24,Autumn,54,D,3,T08,C
+197,S013,History,2023-24,Spring,,,,T08,D
+198,S013,History,2023-24,Summer,51,D,4,T08,C
+199,S013,Geography,2023-24,Autumn,59,D,5,T09,D
+200,S013,Geography,2023-24,Spring,52,D,4,T09,D
+201,S013,Geography,2023-24,Summer,82,A,4,T09,A*
+202,S013,French,2023-24,Autumn,70,B,3,T10,B
+203,S013,French,2023-24,Spring,59,D,2,T10,D
+204,S013,French,2023-24,Summer,58,D,4,T10,D
+205,S013,Computing,2023-24,Autumn,61,C,4,T11,D
+206,S013,Computing,2023-24,Spring,65,C,4,T11,C
+207,S013,Computing,2023-24,Summer,61,C,3,T11,C
+208,S013,Art & Design,2023-24,Autumn,64,C,4,T12,C
+209,S013,Art & Design,2023-24,Spring,67,C,4,T12,B
+210,S013,Art & Design,2023-24,Summer,67,C,4,T12,C
+211,S013,Mathematics,2024-25,Autumn,67,C,5,T02,C
+212,S013,Mathematics,2024-25,Spring,62,C,4,T02,B
+213,S013,Mathematics,2024-25,Summer,56,D,2,T01,C
+214,S013,English Language,2024-25,Autumn,62,C,5,T03,C
+215,S013,English Language,2024-25,Spring,54,D,2,T04,C
+216,S013,English Language,2024-25,Summer,46,E,5,T03,D
+217,S013,Biology,2024-25,Autumn,58,D,4,T05,C
+218,S013,Biology,2024-25,Spring,67,C,3,T05,B
+219,S013,Biology,2024-25,Summer,64,C,3,T05,C
+220,S013,Chemistry,2024-25,Autumn,52,D,1,T06,D
+221,S013,Chemistry,2024-25,Spring,53,D,1,T06,D
+222,S013,Chemistry,2024-25,Summer,56,D,4,T06,C
+223,S013,Physics,2024-25,Autumn,65,C,4,T07,C
+224,S013,Physics,2024-25,Spring,69,C,4,T07,B
+225,S013,Physics,2024-25,Summer,57,D,1,T07,D
+226,S013,History,2024-25,Autumn,71,B,3,T08,B
+227,S013,History,2024-25,Spring,69,C,2,T08,C
+228,S013,History,2024-25,Summer,59,D,5,T08,C
+229,S013,Geography,2024-25,Autumn,60,C,2,T09,C
+230,S013,Geography,2024-25,Spring,64,C,3,T09,C
+231,S013,Geography,2024-25,Summer,68,C,5,T09,A
+232,S013,French,2024-25,Autumn,67,C,1,T10,B
+233,S013,French,2024-25,Spring,52,D,4,T10,D
+234,S013,French,2024-25,Summer,68,C,3,T10,B
+235,S013,Computing,2024-25,Autumn,44,E,5,T11,E
+236,S013,Computing,2024-25,Spring,63,C,5,T11,C
+237,S013,Computing,2024-25,Summer,73,B,4,T11,A
+238,S013,Art & Design,2024-25,Autumn,56,D,5,T12,D
+239,S013,Art & Design,2024-25,Spring,64,C,4,T12,B
+240,S013,Art & Design,2024-25,Summer,72,B,4,T12,B
+241,S014,Mathematics,2023-24,Autumn,44,E,5,T02,E
+242,S014,Mathematics,2023-24,Spring,45,E,3,T02,D
+243,S014,Mathematics,2023-24,Summer,35,U,4,T01,E
+244,S014,English Language,2023-24,Autumn,38,U,5,T03,U
+245,S014,English Language,2023-24,Spring,28,U,4,T03,U
+246,S014,English Language,2023-24,Summer,41,E,3,T04,U
+247,S014,Biology,2023-24,Autumn,45,E,5,T05,E
+248,S014,Biology,2023-24,Spring,47,E,1,T05,D
+249,S014,Biology,2023-24,Summer,26,U,3,T05,U
+250,S014,Chemistry,2023-24,Autumn,39,U,2,T06,U
+251,S014,Chemistry,2023-24,Spring,47,E,3,T06,D
+252,S014,Chemistry,2023-24,Summer,33,U,3,T06,U
+253,S014,Physics,2023-24,Autumn,36,U,4,T07,U
+254,S014,Physics,2023-24,Spring,30,U,4,T07,U
+255,S014,Physics,2023-24,Summer,30,U,3,T07,U
+256,S014,History,2023-24,Autumn,29,U,3,T08,U
+257,S014,History,2023-24,Spring,33,U,4,T08,E
+258,S014,History,2023-24,Summer,45,E,4,T08,E
+259,S014,Geography,2023-24,Autumn,44,E,5,T09,E
+260,S014,Geography,2023-24,Spring,44,E,4,T09,E
+261,S014,Geography,2023-24,Summer,37,U,3,T09,U
+262,S014,French,2023-24,Autumn,40,E,5,T10,U
+263,S014,French,2023-24,Spring,29,U,4,T10,U
+264,S014,French,2023-24,Summer,33,U,3,T10,U
+265,S014,Computing,2023-24,Autumn,46,E,3,T11,D
+266,S014,Computing,2023-24,Spring,33,U,2,T11,U
+267,S014,Computing,2023-24,Summer,41,E,3,T11,E
+268,S014,Art & Design,2023-24,Autumn,51,D,3,T12,E
+269,S014,Art & Design,2023-24,Spring,39,U,3,T12,D
+270,S014,Art & Design,2023-24,Summer,47,E,3,T12,D
+271,S014,Mathematics,2024-25,Autumn,33,U,4,T01,E
+272,S014,Mathematics,2024-25,Spring,26,U,5,T01,U
+273,S014,Mathematics,2024-25,Summer,42,E,4,T02,E
+274,S014,English Language,2024-25,Autumn,35,U,1,T04,E
+275,S014,English Language,2024-25,Spring,35,U,5,T04,U
+276,S014,English Language,2024-25,Summer,46,E,3,T03,D
+277,S014,Biology,2024-25,Autumn,44,E,4,T05,E
+278,S014,Biology,2024-25,Spring,55,D,2,T05,C
+279,S014,Biology,2024-25,Summer,26,U,5,T05,U
+280,S014,Chemistry,2024-25,Autumn,35,U,3,T06,U
+281,S014,Chemistry,2024-25,Spring,36,U,1,T06,U
+282,S014,Chemistry,2024-25,Summer,43,E,4,T06,D
+283,S014,Physics,2024-25,Autumn,,,,T07,U
+284,S014,Physics,2024-25,Spring,41,E,5,T07,D
+285,S014,Physics,2024-25,Summer,,,,T07,U
+286,S014,History,2024-25,Autumn,33,U,5,T08,U
+287,S014,History,2024-25,Spring,35,U,3,T08,E
+288,S014,History,2024-25,Summer,43,E,5,T08,E
+289,S014,Geography,2024-25,Autumn,27,U,3,T09,U
+290,S014,Geography,2024-25,Spring,46,E,5,T09,D
+291,S014,Geography,2024-25,Summer,47,E,3,T09,D
+292,S014,French,2024-25,Autumn,29,U,4,T10,U
+293,S014,French,2024-25,Spring,26,U,4,T10,U
+294,S014,French,2024-25,Summer,32,U,5,T10,U
+295,S014,Computing,2024-25,Autumn,44,E,4,T11,D
+296,S014,Computing,2024-25,Spring,38,U,3,T11,E
+297,S014,Computing,2024-25,Summer,28,U,3,T11,U
+298,S014,Art & Design,2024-25,Autumn,29,U,4,T12,U
+299,S014,Art & Design,2024-25,Spring,42,E,4,T12,E
+300,S014,Art & Design,2024-25,Summer,36,U,5,T12,E
+301,S015,Mathematics,2023-24,Autumn,75,B,2,T01,C
+302,S015,Mathematics,2023-24,Spring,80,A,2,T02,B
+303,S015,Mathematics,2023-24,Summer,64,C,3,T02,B
+304,S015,English Language,2023-24,Autumn,65,C,4,T04,C
+305,S015,English Language,2023-24,Spring,75,B,2,T04,A
+306,S015,English Language,2023-24,Summer,77,B,5,T03,B
+307,S015,Biology,2023-24,Autumn,73,B,5,T05,C
+308,S015,Biology,2023-24,Spring,73,B,2,T05,B
+309,S015,Biology,2023-24,Summer,68,C,3,T05,B
+310,S015,Chemistry,2023-24,Autumn,71,B,5,T06,B
+311,S015,Chemistry,2023-24,Spring,74,B,5,T06,B
+312,S015,Chemistry,2023-24,Summer,91,A*,5,T06,A*
+313,S015,Physics,2023-24,Autumn,94,A*,4,T07,A*
+314,S015,Physics,2023-24,Spring,75,B,3,T07,A
+315,S015,Physics,2023-24,Summer,66,C,1,T07,B
+316,S015,History,2023-24,Autumn,71,B,3,T08,B
+317,S015,History,2023-24,Spring,74,B,4,T08,C
+318,S015,History,2023-24,Summer,77,B,3,T08,B
+319,S015,Geography,2023-24,Autumn,71,B,4,T09,B
+320,S015,Geography,2023-24,Spring,71,B,4,T09,B
+321,S015,Geography,2023-24,Summer,74,B,4,T09,B
+322,S015,French,2023-24,Autumn,79,B,2,T10,A
+323,S015,French,2023-24,Spring,83,A,3,T10,A*
+324,S015,French,2023-24,Summer,58,D,3,T10,D
+325,S015,Computing,2023-24,Autumn,75,B,3,T11,A
+326,S015,Computing,2023-24,Spring,79,B,3,T11,A
+327,S015,Computing,2023-24,Summer,77,B,5,T11,A
+328,S015,Art & Design,2023-24,Autumn,76,B,2,T12,B
+329,S015,Art & Design,2023-24,Spring,62,C,3,T12,C
+330,S015,Art & Design,2023-24,Summer,80,A,4,T12,A
+331,S015,Mathematics,2024-25,Autumn,65,C,2,T01,C
+332,S015,Mathematics,2024-25,Spring,84,A,5,T01,A
+333,S015,Mathematics,2024-25,Summer,84,A,1,T01,A
+334,S015,English Language,2024-25,Autumn,61,C,2,T03,C
+335,S015,English Language,2024-25,Spring,85,A,5,T04,A
+336,S015,English Language,2024-25,Summer,70,B,4,T04,B
+337,S015,Biology,2024-25,Autumn,75,B,2,T05,B
+338,S015,Biology,2024-25,Spring,68,C,4,T05,C
+339,S015,Biology,2024-25,Summer,71,B,5,T05,B
+340,S015,Chemistry,2024-25,Autumn,,,,T06,B
+341,S015,Chemistry,2024-25,Spring,85,A,5,T06,A*
+342,S015,Chemistry,2024-25,Summer,83,A,3,T06,B
+343,S015,Physics,2024-25,Autumn,82,A,5,T07,A
+344,S015,Physics,2024-25,Spring,66,C,5,T07,C
+345,S015,Physics,2024-25,Summer,74,B,5,T07,B
+346,S015,History,2024-25,Autumn,72,B,4,T08,B
+347,S015,History,2024-25,Spring,72,B,4,T08,A
+348,S015,History,2024-25,Summer,67,C,4,T08,C
+349,S015,Geography,2024-25,Autumn,82,A,4,T09,A
+350,S015,Geography,2024-25,Spring,85,A,5,T09,A*
+351,S015,Geography,2024-25,Summer,57,D,3,T09,C
+352,S015,French,2024-25,Autumn,74,B,4,T10,B
+353,S015,French,2024-25,Spring,90,A*,4,T10,A*
+354,S015,French,2024-25,Summer,83,A,3,T10,A
+355,S015,Computing,2024-25,Autumn,73,B,4,T11,B
+356,S015,Computing,2024-25,Spring,71,B,5,T11,C
+357,S015,Computing,2024-25,Summer,85,A,4,T11,A
+358,S015,Art & Design,2024-25,Autumn,68,C,2,T12,C
+359,S015,Art & Design,2024-25,Spring,70,B,5,T12,B
+360,S015,Art & Design,2024-25,Summer,72,B,3,T12,A
+361,S016,Mathematics,2023-24,Autumn,,,,T01,A
+362,S016,Mathematics,2023-24,Spring,61,C,5,T02,C
+363,S016,Mathematics,2023-24,Summer,59,D,5,T01,D
+364,S016,English Language,2023-24,Autumn,60,C,2,T03,C
+365,S016,English Language,2023-24,Spring,57,D,1,T04,D
+366,S016,English Language,2023-24,Summer,52,D,3,T04,D
+367,S016,Biology,2023-24,Autumn,61,C,4,T05,C
+368,S016,Biology,2023-24,Spring,46,E,1,T05,D
+369,S016,Biology,2023-24,Summer,65,C,3,T05,D
+370,S016,Chemistry,2023-24,Autumn,61,C,4,T06,C
+371,S016,Chemistry,2023-24,Spring,57,D,5,T06,C
+372,S016,Chemistry,2023-24,Summer,52,D,3,T06,E
+373,S016,Physics,2023-24,Autumn,68,C,4,T07,B
+374,S016,Physics,2023-24,Spring,56,D,4,T07,D
+375,S016,Physics,2023-24,Summer,60,C,4,T07,D
+376,S016,History,2023-24,Autumn,53,D,2,T08,C
+377,S016,History,2023-24,Spring,69,C,4,T08,B
+378,S016,History,2023-24,Summer,63,C,5,T08,C
+379,S016,Geography,2023-24,Autumn,56,D,4,T09,C
+380,S016,Geography,2023-24,Spring,62,C,1,T09,C
+381,S016,Geography,2023-24,Summer,64,C,1,T09,C
+382,S016,French,2023-24,Autumn,,,,T10,C
+383,S016,French,2023-24,Spring,53,D,4,T10,C
+384,S016,French,2023-24,Summer,72,B,5,T10,B
+385,S016,Computing,2023-24,Autumn,60,C,4,T11,D
+386,S016,Computing,2023-24,Spring,73,B,2,T11,B
+387,S016,Computing,2023-24,Summer,66,C,4,T11,D
+388,S016,Art & Design,2023-24,Autumn,67,C,3,T12,C
+389,S016,Art & Design,2023-24,Spring,74,B,1,T12,B
+390,S016,Art & Design,2023-24,Summer,80,A,3,T12,B
+391,S016,Mathematics,2024-25,Autumn,75,B,4,T01,B
+392,S016,Mathematics,2024-25,Spring,73,B,4,T01,B
+393,S016,Mathematics,2024-25,Summer,71,B,5,T02,B
+394,S016,English Language,2024-25,Autumn,67,C,3,T03,C
+395,S016,English Language,2024-25,Spring,57,D,3,T03,D
+396,S016,English Language,2024-25,Summer,56,D,5,T04,C
+397,S016,Biology,2024-25,Autumn,61,C,2,T05,C
+398,S016,Biology,2024-25,Spring,59,D,3,T05,C
+399,S016,Biology,2024-25,Summer,74,B,5,T05,B
+400,S016,Chemistry,2024-25,Autumn,65,C,2,T06,B
+401,S016,Chemistry,2024-25,Spring,75,B,3,T06,A
+402,S016,Chemistry,2024-25,Summer,63,C,2,T06,C
+403,S016,Physics,2024-25,Autumn,70,B,5,T07,B
+404,S016,Physics,2024-25,Spring,70,B,4,T07,A
+405,S016,Physics,2024-25,Summer,61,C,3,T07,D
+406,S016,History,2024-25,Autumn,66,C,4,T08,C
+407,S016,History,2024-25,Spring,54,D,4,T08,C
+408,S016,History,2024-25,Summer,62,C,3,T08,C
+409,S016,Geography,2024-25,Autumn,66,C,3,T09,B
+410,S016,Geography,2024-25,Spring,67,C,4,T09,B
+411,S016,Geography,2024-25,Summer,58,D,3,T09,D
+412,S016,French,2024-25,Autumn,59,D,3,T10,D
+413,S016,French,2024-25,Spring,63,C,5,T10,C
+414,S016,French,2024-25,Summer,66,C,5,T10,C
+415,S016,Computing,2024-25,Autumn,,,,T11,C
+416,S016,Computing,2024-25,Spring,57,D,4,T11,C
+417,S016,Computing,2024-25,Summer,75,B,3,T11,B
+418,S016,Art & Design,2024-25,Autumn,61,C,1,T12,B
+419,S016,Art & Design,2024-25,Spring,68,C,2,T12,B
+420,S016,Art & Design,2024-25,Summer,60,C,3,T12,C
+421,S017,Mathematics,2023-24,Autumn,79,B,3,T01,B
+422,S017,Mathematics,2023-24,Spring,95,A*,5,T01,A*
+423,S017,Mathematics,2023-24,Summer,85,A,2,T01,A
+424,S017,English Language,2023-24,Autumn,78,B,4,T04,B
+425,S017,English Language,2023-24,Spring,75,B,4,T03,B
+426,S017,English Language,2023-24,Summer,98,A*,4,T04,A*
+427,S017,Biology,2023-24,Autumn,,,,T05,A
+428,S017,Biology,2023-24,Spring,95,A*,3,T05,A*
+429,S017,Biology,2023-24,Summer,68,C,2,T05,C
+430,S017,Chemistry,2023-24,Autumn,77,B,4,T06,B
+431,S017,Chemistry,2023-24,Spring,90,A*,4,T06,B
+432,S017,Chemistry,2023-24,Summer,81,A,3,T06,B
+433,S017,Physics,2023-24,Autumn,93,A*,3,T07,A*
+434,S017,Physics,2023-24,Spring,82,A,4,T07,A
+435,S017,Physics,2023-24,Summer,79,B,4,T07,A
+436,S017,History,2023-24,Autumn,87,A,4,T08,A
+437,S017,History,2023-24,Spring,,,,T08,A*
+438,S017,History,2023-24,Summer,85,A,3,T08,A
+439,S017,Geography,2023-24,Autumn,77,B,3,T09,A
+440,S017,Geography,2023-24,Spring,83,A,4,T09,A
+441,S017,Geography,2023-24,Summer,80,A,4,T09,A
+442,S017,French,2023-24,Autumn,79,B,2,T10,A
+443,S017,French,2023-24,Spring,86,A,3,T10,A
+444,S017,French,2023-24,Summer,81,A,3,T10,A
+445,S017,Computing,2023-24,Autumn,78,B,3,T11,B
+446,S017,Computing,2023-24,Spring,91,A*,3,T11,A
+447,S017,Computing,2023-24,Summer,87,A,4,T11,A
+448,S017,Art & Design,2023-24,Autumn,99,A*,3,T12,A*
+449,S017,Art & Design,2023-24,Spring,80,A,4,T12,A
+450,S017,Art & Design,2023-24,Summer,87,A,3,T12,A
+451,S017,Mathematics,2024-25,Autumn,76,B,4,T02,A
+452,S017,Mathematics,2024-25,Spring,79,B,5,T01,A
+453,S017,Mathematics,2024-25,Summer,68,C,4,T02,B
+454,S017,English Language,2024-25,Autumn,93,A*,4,T03,A*
+455,S017,English Language,2024-25,Spring,84,A,4,T04,B
+456,S017,English Language,2024-25,Summer,77,B,5,T03,A
+457,S017,Biology,2024-25,Autumn,85,A,3,T05,A
+458,S017,Biology,2024-25,Spring,,,,T05,A
+459,S017,Biology,2024-25,Summer,79,B,3,T05,B
+460,S017,Chemistry,2024-25,Autumn,84,A,4,T06,A
+461,S017,Chemistry,2024-25,Spring,83,A,3,T06,A*
+462,S017,Chemistry,2024-25,Summer,94,A*,3,T06,A*
+463,S017,Physics,2024-25,Autumn,72,B,2,T07,B
+464,S017,Physics,2024-25,Spring,87,A,2,T07,A
+465,S017,Physics,2024-25,Summer,71,B,5,T07,C
+466,S017,History,2024-25,Autumn,80,A,3,T08,A
+467,S017,History,2024-25,Spring,89,A,4,T08,A
+468,S017,History,2024-25,Summer,89,A,3,T08,A
+469,S017,Geography,2024-25,Autumn,89,A,4,T09,A
+470,S017,Geography,2024-25,Spring,74,B,3,T09,B
+471,S017,Geography,2024-25,Summer,83,A,4,T09,A
+472,S017,French,2024-25,Autumn,75,B,3,T10,B
+473,S017,French,2024-25,Spring,71,B,3,T10,B
+474,S017,French,2024-25,Summer,75,B,2,T10,B
+475,S017,Computing,2024-25,Autumn,72,B,2,T11,B
+476,S017,Computing,2024-25,Spring,85,A,5,T11,A
+477,S017,Computing,2024-25,Summer,78,B,3,T11,B
+478,S017,Art & Design,2024-25,Autumn,70,B,4,T12,B
+479,S017,Art & Design,2024-25,Spring,62,C,4,T12,D
+480,S017,Art & Design,2024-25,Summer,,,,T12,A*
+481,S018,Mathematics,2023-24,Autumn,56,D,4,T02,C
+482,S018,Mathematics,2023-24,Spring,58,D,4,T02,C
+483,S018,Mathematics,2023-24,Summer,55,D,3,T01,D
+484,S018,English Language,2023-24,Autumn,67,C,4,T04,B
+485,S018,English Language,2023-24,Spring,61,C,5,T03,C
+486,S018,English Language,2023-24,Summer,69,C,3,T04,B
+487,S018,Biology,2023-24,Autumn,48,E,4,T05,E
+488,S018,Biology,2023-24,Spring,58,D,4,T05,D
+489,S018,Biology,2023-24,Summer,53,D,3,T05,D
+490,S018,Chemistry,2023-24,Autumn,55,D,2,T06,D
+491,S018,Chemistry,2023-24,Spring,66,C,3,T06,B
+492,S018,Chemistry,2023-24,Summer,56,D,4,T06,D
+493,S018,Physics,2023-24,Autumn,53,D,4,T07,D
+494,S018,Physics,2023-24,Spring,55,D,5,T07,D
+495,S018,Physics,2023-24,Summer,55,D,4,T07,D
+496,S018,History,2023-24,Autumn,43,E,3,T08,E
+497,S018,History,2023-24,Spring,38,U,5,T08,E
+498,S018,History,2023-24,Summer,58,D,4,T08,D
+499,S018,Geography,2023-24,Autumn,,,,T09,C
+500,S018,Geography,2023-24,Spring,59,D,4,T09,C
+501,S018,Geography,2023-24,Summer,53,D,4,T09,D
+502,S018,French,2023-24,Autumn,57,D,3,T10,D
+503,S018,French,2023-24,Spring,59,D,3,T10,C
+504,S018,French,2023-24,Summer,,,,T10,D
+505,S018,Computing,2023-24,Autumn,,,,T11,D
+506,S018,Computing,2023-24,Spring,50,D,5,T11,E
+507,S018,Computing,2023-24,Summer,49,E,2,T11,D
+508,S018,Art & Design,2023-24,Autumn,50,D,3,T12,D
+509,S018,Art & Design,2023-24,Spring,54,D,4,T12,D
+510,S018,Art & Design,2023-24,Summer,53,D,3,T12,E
+511,S018,Mathematics,2024-25,Autumn,50,D,5,T01,D
+512,S018,Mathematics,2024-25,Spring,48,E,5,T02,E
+513,S018,Mathematics,2024-25,Summer,55,D,3,T02,C
+514,S018,English Language,2024-25,Autumn,49,E,4,T04,E
+515,S018,English Language,2024-25,Spring,51,D,3,T03,D
+516,S018,English Language,2024-25,Summer,56,D,3,T03,D
+517,S018,Biology,2024-25,Autumn,47,E,5,T05,E
+518,S018,Biology,2024-25,Spring,66,C,4,T05,B
+519,S018,Biology,2024-25,Summer,,,,T05,C
+520,S018,Chemistry,2024-25,Autumn,61,C,1,T06,C
+521,S018,Chemistry,2024-25,Spring,50,D,4,T06,D
+522,S018,Chemistry,2024-25,Summer,45,E,4,T06,D
+523,S018,Physics,2024-25,Autumn,51,D,3,T07,C
+524,S018,Physics,2024-25,Spring,46,E,5,T07,D
+525,S018,Physics,2024-25,Summer,37,U,3,T07,E
+526,S018,History,2024-25,Autumn,47,E,4,T08,D
+527,S018,History,2024-25,Spring,52,D,1,T08,D
+528,S018,History,2024-25,Summer,65,C,4,T08,B
+529,S018,Geography,2024-25,Autumn,65,C,3,T09,B
+530,S018,Geography,2024-25,Spring,69,C,3,T09,B
+531,S018,Geography,2024-25,Summer,66,C,4,T09,C
+532,S018,French,2024-25,Autumn,58,D,3,T10,D
+533,S018,French,2024-25,Spring,53,D,4,T10,D
+534,S018,French,2024-25,Summer,59,D,4,T10,D
+535,S018,Computing,2024-25,Autumn,64,C,1,T11,B
+536,S018,Computing,2024-25,Spring,55,D,3,T11,C
+537,S018,Computing,2024-25,Summer,64,C,2,T11,B
+538,S018,Art & Design,2024-25,Autumn,75,B,2,T12,B
+539,S018,Art & Design,2024-25,Spring,,,,T12,D
+540,S018,Art & Design,2024-25,Summer,58,D,3,T12,C
+541,S019,Mathematics,2022-23,Autumn,45,E,4,T01,E
+542,S019,Mathematics,2022-23,Spring,40,E,3,T02,E
+543,S019,Mathematics,2022-23,Summer,52,D,4,T01,D
+544,S019,English Language,2022-23,Autumn,50,D,5,T04,D
+545,S019,English Language,2022-23,Spring,56,D,4,T03,C
+546,S019,English Language,2022-23,Summer,50,D,1,T03,D
+547,S019,Biology,2022-23,Autumn,45,E,3,T05,E
+548,S019,Biology,2022-23,Spring,46,E,3,T05,U
+549,S019,Biology,2022-23,Summer,59,D,3,T05,C
+550,S019,Chemistry,2022-23,Autumn,47,E,3,T06,D
+551,S019,Chemistry,2022-23,Spring,53,D,4,T06,D
+552,S019,Chemistry,2022-23,Summer,54,D,3,T06,C
+553,S019,Physics,2022-23,Autumn,49,E,3,T07,C
+554,S019,Physics,2022-23,Spring,58,D,4,T07,C
+555,S019,Physics,2022-23,Summer,66,C,4,T07,C
+556,S019,History,2022-23,Autumn,52,D,5,T08,C
+557,S019,History,2022-23,Spring,52,D,4,T08,D
+558,S019,History,2022-23,Summer,52,D,2,T08,C
+559,S019,Geography,2022-23,Autumn,30,U,5,T09,U
+560,S019,Geography,2022-23,Spring,33,U,4,T09,U
+561,S019,Geography,2022-23,Summer,51,D,3,T09,C
+562,S019,French,2022-23,Autumn,59,D,2,T10,B
+563,S019,French,2022-23,Spring,56,D,4,T10,C
+564,S019,French,2022-23,Summer,53,D,3,T10,D
+565,S019,Computing,2022-23,Autumn,59,D,4,T11,D
+566,S019,Computing,2022-23,Spring,43,E,4,T11,E
+567,S019,Computing,2022-23,Summer,55,D,5,T11,D
+568,S019,Art & Design,2022-23,Autumn,40,E,5,T12,U
+569,S019,Art & Design,2022-23,Spring,52,D,4,T12,D
+570,S019,Art & Design,2022-23,Summer,54,D,3,T12,B
+571,S019,Mathematics,2023-24,Autumn,59,D,4,T01,C
+572,S019,Mathematics,2023-24,Spring,50,D,3,T01,D
+573,S019,Mathematics,2023-24,Summer,31,U,5,T02,U
+574,S019,English Language,2023-24,Autumn,62,C,3,T04,C
+575,S019,English Language,2023-24,Spring,39,U,1,T04,E
+576,S019,English Language,2023-24,Summer,,,,T04,E
+577,S019,Biology,2023-24,Autumn,49,E,2,T05,D
+578,S019,Biology,2023-24,Spring,51,D,4,T05,D
+579,S019,Biology,2023-24,Summer,55,D,5,T05,C
+580,S019,Chemistry,2023-24,Autumn,52,D,4,T06,C
+581,S019,Chemistry,2023-24,Spring,48,E,3,T06,E
+582,S019,Chemistry,2023-24,Summer,56,D,4,T06,C
+583,S019,Physics,2023-24,Autumn,31,U,3,T07,U
+584,S019,Physics,2023-24,Spring,61,C,3,T07,B
+585,S019,Physics,2023-24,Summer,60,C,5,T07,C
+586,S019,History,2023-24,Autumn,39,U,3,T08,D
+587,S019,History,2023-24,Spring,40,E,4,T08,E
+588,S019,History,2023-24,Summer,61,C,5,T08,D
+589,S019,Geography,2023-24,Autumn,35,U,4,T09,U
+590,S019,Geography,2023-24,Spring,52,D,2,T09,D
+591,S019,Geography,2023-24,Summer,38,U,3,T09,D
+592,S019,French,2023-24,Autumn,47,E,3,T10,D
+593,S019,French,2023-24,Spring,56,D,4,T10,C
+594,S019,French,2023-24,Summer,53,D,3,T10,D
+595,S019,Computing,2023-24,Autumn,54,D,5,T11,D
+596,S019,Computing,2023-24,Spring,40,E,2,T11,E
+597,S019,Computing,2023-24,Summer,42,E,4,T11,E
+598,S019,Art & Design,2023-24,Autumn,53,D,3,T12,D
+599,S019,Art & Design,2023-24,Spring,45,E,3,T12,D
+600,S019,Art & Design,2023-24,Summer,57,D,3,T12,C
+601,S019,Mathematics,2024-25,Autumn,52,D,3,T01,D
+602,S019,Mathematics,2024-25,Spring,51,D,4,T02,D
+603,S019,Mathematics,2024-25,Summer,56,D,5,T02,C
+604,S019,English Language,2024-25,Autumn,53,D,3,T04,D
+605,S019,English Language,2024-25,Spring,49,E,2,T04,D
+606,S019,English Language,2024-25,Summer,43,E,3,T03,D
+607,S019,Biology,2024-25,Autumn,38,U,4,T05,U
+608,S019,Biology,2024-25,Spring,48,E,3,T05,E
+609,S019,Biology,2024-25,Summer,50,D,4,T05,D
+610,S019,Chemistry,2024-25,Autumn,60,C,5,T06,C
+611,S019,Chemistry,2024-25,Spring,46,E,5,T06,D
+612,S019,Chemistry,2024-25,Summer,65,C,4,T06,B
+613,S019,Physics,2024-25,Autumn,41,E,3,T07,U
+614,S019,Physics,2024-25,Spring,45,E,5,T07,D
+615,S019,Physics,2024-25,Summer,39,U,3,T07,E
+616,S019,History,2024-25,Autumn,59,D,5,T08,C
+617,S019,History,2024-25,Spring,46,E,3,T08,D
+618,S019,History,2024-25,Summer,46,E,4,T08,D
+619,S019,Geography,2024-25,Autumn,52,D,4,T09,C
+620,S019,Geography,2024-25,Spring,,,,T09,C
+621,S019,Geography,2024-25,Summer,42,E,5,T09,E
+622,S019,French,2024-25,Autumn,65,C,4,T10,B
+623,S019,French,2024-25,Spring,67,C,5,T10,C
+624,S019,French,2024-25,Summer,40,E,3,T10,E
+625,S019,Computing,2024-25,Autumn,37,U,5,T11,E
+626,S019,Computing,2024-25,Spring,55,D,4,T11,C
+627,S019,Computing,2024-25,Summer,65,C,2,T11,D
+628,S019,Art & Design,2024-25,Autumn,55,D,3,T12,D
+629,S019,Art & Design,2024-25,Spring,50,D,1,T12,E
+630,S019,Art & Design,2024-25,Summer,51,D,4,T12,E
+631,S020,Mathematics,2022-23,Autumn,90,A*,1,T01,A*
+632,S020,Mathematics,2022-23,Spring,70,B,5,T01,C
+633,S020,Mathematics,2022-23,Summer,88,A,1,T01,A*
+634,S020,English Language,2022-23,Autumn,92,A*,5,T03,A*
+635,S020,English Language,2022-23,Spring,91,A*,5,T04,A*
+636,S020,English Language,2022-23,Summer,83,A,3,T04,A
+637,S020,Biology,2022-23,Autumn,78,B,4,T05,A
+638,S020,Biology,2022-23,Spring,81,A,3,T05,B
+639,S020,Biology,2022-23,Summer,91,A*,5,T05,A*
+640,S020,Chemistry,2022-23,Autumn,88,A,5,T06,A*
+641,S020,Chemistry,2022-23,Spring,83,A,2,T06,A
+642,S020,Chemistry,2022-23,Summer,83,A,4,T06,B
+643,S020,Physics,2022-23,Autumn,82,A,1,T07,A
+644,S020,Physics,2022-23,Spring,86,A,4,T07,A
+645,S020,Physics,2022-23,Summer,84,A,5,T07,A
+646,S020,History,2022-23,Autumn,76,B,4,T08,A
+647,S020,History,2022-23,Spring,98,A*,3,T08,A*
+648,S020,History,2022-23,Summer,84,A,3,T08,A*
+649,S020,Geography,2022-23,Autumn,85,A,2,T09,A
+650,S020,Geography,2022-23,Spring,90,A*,4,T09,A*
+651,S020,Geography,2022-23,Summer,92,A*,5,T09,A*
+652,S020,French,2022-23,Autumn,73,B,4,T10,B
+653,S020,French,2022-23,Spring,90,A*,3,T10,A*
+654,S020,French,2022-23,Summer,97,A*,3,T10,A*
+655,S020,Computing,2022-23,Autumn,96,A*,4,T11,A*
+656,S020,Computing,2022-23,Spring,,,,T11,A
+657,S020,Computing,2022-23,Summer,76,B,5,T11,B
+658,S020,Art & Design,2022-23,Autumn,87,A,1,T12,A*
+659,S020,Art & Design,2022-23,Spring,94,A*,2,T12,A*
+660,S020,Art & Design,2022-23,Summer,92,A*,3,T12,A*
+661,S020,Mathematics,2023-24,Autumn,87,A,5,T02,A
+662,S020,Mathematics,2023-24,Spring,,,,T02,A*
+663,S020,Mathematics,2023-24,Summer,92,A*,3,T01,A*
+664,S020,English Language,2023-24,Autumn,92,A*,4,T03,A*
+665,S020,English Language,2023-24,Spring,80,A,4,T03,B
+666,S020,English Language,2023-24,Summer,88,A,4,T04,A*
+667,S020,Biology,2023-24,Autumn,93,A*,4,T05,A*
+668,S020,Biology,2023-24,Spring,84,A,4,T05,A
+669,S020,Biology,2023-24,Summer,86,A,5,T05,A
+670,S020,Chemistry,2023-24,Autumn,91,A*,4,T06,A
+671,S020,Chemistry,2023-24,Spring,,,,T06,A*
+672,S020,Chemistry,2023-24,Summer,83,A,5,T06,A
+673,S020,Physics,2023-24,Autumn,92,A*,2,T07,A*
+674,S020,Physics,2023-24,Spring,97,A*,4,T07,A*
+675,S020,Physics,2023-24,Summer,83,A,5,T07,A
+676,S020,History,2023-24,Autumn,93,A*,1,T08,A*
+677,S020,History,2023-24,Spring,,,,T08,A
+678,S020,History,2023-24,Summer,96,A*,3,T08,A*
+679,S020,Geography,2023-24,Autumn,87,A,3,T09,A*
+680,S020,Geography,2023-24,Spring,72,B,3,T09,A
+681,S020,Geography,2023-24,Summer,80,A,5,T09,A
+682,S020,French,2023-24,Autumn,88,A,5,T10,A
+683,S020,French,2023-24,Spring,97,A*,4,T10,A*
+684,S020,French,2023-24,Summer,83,A,1,T10,A
+685,S020,Computing,2023-24,Autumn,72,B,3,T11,B
+686,S020,Computing,2023-24,Spring,84,A,4,T11,A*
+687,S020,Computing,2023-24,Summer,85,A,4,T11,A
+688,S020,Art & Design,2023-24,Autumn,87,A,4,T12,A
+689,S020,Art & Design,2023-24,Spring,97,A*,4,T12,A*
+690,S020,Art & Design,2023-24,Summer,97,A*,5,T12,A*
+691,S020,Mathematics,2024-25,Autumn,83,A,5,T01,A
+692,S020,Mathematics,2024-25,Spring,81,A,5,T01,A
+693,S020,Mathematics,2024-25,Summer,91,A*,5,T02,A
+694,S020,English Language,2024-25,Autumn,100,A*,1,T04,A*
+695,S020,English Language,2024-25,Spring,89,A,2,T04,A*
+696,S020,English Language,2024-25,Summer,78,B,4,T04,B
+697,S020,Biology,2024-25,Autumn,94,A*,4,T05,A*
+698,S020,Biology,2024-25,Spring,,,,T05,A*
+699,S020,Biology,2024-25,Summer,82,A,4,T05,A*
+700,S020,Chemistry,2024-25,Autumn,93,A*,2,T06,A*
+701,S020,Chemistry,2024-25,Spring,85,A,5,T06,A
+702,S020,Chemistry,2024-25,Summer,91,A*,3,T06,A*
+703,S020,Physics,2024-25,Autumn,81,A,2,T07,B
+704,S020,Physics,2024-25,Spring,81,A,5,T07,A
+705,S020,Physics,2024-25,Summer,100,A*,5,T07,A*
+706,S020,History,2024-25,Autumn,92,A*,4,T08,A
+707,S020,History,2024-25,Spring,94,A*,4,T08,A*
+708,S020,History,2024-25,Summer,72,B,5,T08,A
+709,S020,Geography,2024-25,Autumn,100,A*,4,T09,A*
+710,S020,Geography,2024-25,Spring,75,B,4,T09,B
+711,S020,Geography,2024-25,Summer,99,A*,3,T09,A*
+712,S020,French,2024-25,Autumn,92,A*,4,T10,A*
+713,S020,French,2024-25,Spring,86,A,2,T10,A
+714,S020,French,2024-25,Summer,72,B,4,T10,C
+715,S020,Computing,2024-25,Autumn,88,A,2,T11,A*
+716,S020,Computing,2024-25,Spring,86,A,4,T11,A
+717,S020,Computing,2024-25,Summer,87,A,2,T11,A
+718,S020,Art & Design,2024-25,Autumn,81,A,4,T12,A
+719,S020,Art & Design,2024-25,Spring,83,A,4,T12,A
+720,S020,Art & Design,2024-25,Summer,96,A*,3,T12,A*
+721,S021,Mathematics,2022-23,Autumn,93,A*,3,T02,A*
+722,S021,Mathematics,2022-23,Spring,73,B,4,T01,B
+723,S021,Mathematics,2022-23,Summer,68,C,3,T01,B
+724,S021,English Language,2022-23,Autumn,93,A*,3,T04,A*
+725,S021,English Language,2022-23,Spring,95,A*,5,T03,A*
+726,S021,English Language,2022-23,Summer,99,A*,3,T04,A*
+727,S021,Biology,2022-23,Autumn,80,A,5,T05,B
+728,S021,Biology,2022-23,Spring,89,A,4,T05,A
+729,S021,Biology,2022-23,Summer,85,A,4,T05,A
+730,S021,Chemistry,2022-23,Autumn,93,A*,3,T06,A*
+731,S021,Chemistry,2022-23,Spring,82,A,5,T06,A*
+732,S021,Chemistry,2022-23,Summer,88,A,1,T06,A
+733,S021,Physics,2022-23,Autumn,94,A*,4,T07,A*
+734,S021,Physics,2022-23,Spring,,,,T07,A
+735,S021,Physics,2022-23,Summer,100,A*,4,T07,A*
+736,S021,History,2022-23,Autumn,87,A,3,T08,A
+737,S021,History,2022-23,Spring,91,A*,5,T08,A*
+738,S021,History,2022-23,Summer,84,A,3,T08,A
+739,S021,Geography,2022-23,Autumn,84,A,5,T09,A
+740,S021,Geography,2022-23,Spring,73,B,3,T09,B
+741,S021,Geography,2022-23,Summer,86,A,3,T09,A
+742,S021,French,2022-23,Autumn,85,A,3,T10,A
+743,S021,French,2022-23,Spring,91,A*,3,T10,A
+744,S021,French,2022-23,Summer,86,A,4,T10,A
+745,S021,Computing,2022-23,Autumn,85,A,2,T11,A
+746,S021,Computing,2022-23,Spring,84,A,3,T11,A
+747,S021,Computing,2022-23,Summer,90,A*,3,T11,A*
+748,S021,Art & Design,2022-23,Autumn,87,A,5,T12,A*
+749,S021,Art & Design,2022-23,Spring,88,A,2,T12,A*
+750,S021,Art & Design,2022-23,Summer,89,A,5,T12,A*
+751,S021,Mathematics,2023-24,Autumn,100,A*,3,T01,A*
+752,S021,Mathematics,2023-24,Spring,93,A*,3,T01,A*
+753,S021,Mathematics,2023-24,Summer,79,B,4,T02,A
+754,S021,English Language,2023-24,Autumn,86,A,3,T03,A
+755,S021,English Language,2023-24,Spring,79,B,2,T03,A
+756,S021,English Language,2023-24,Summer,95,A*,3,T04,A*
+757,S021,Biology,2023-24,Autumn,99,A*,3,T05,A*
+758,S021,Biology,2023-24,Spring,69,C,3,T05,B
+759,S021,Biology,2023-24,Summer,77,B,3,T05,A
+760,S021,Chemistry,2023-24,Autumn,82,A,3,T06,A
+761,S021,Chemistry,2023-24,Spring,98,A*,5,T06,A*
+762,S021,Chemistry,2023-24,Summer,85,A,4,T06,A*
+763,S021,Physics,2023-24,Autumn,,,,T07,A
+764,S021,Physics,2023-24,Spring,83,A,3,T07,A
+765,S021,Physics,2023-24,Summer,85,A,5,T07,A*
+766,S021,History,2023-24,Autumn,95,A*,3,T08,A*
+767,S021,History,2023-24,Spring,75,B,4,T08,B
+768,S021,History,2023-24,Summer,84,A,4,T08,A
+769,S021,Geography,2023-24,Autumn,79,B,3,T09,A
+770,S021,Geography,2023-24,Spring,95,A*,4,T09,A
+771,S021,Geography,2023-24,Summer,100,A*,1,T09,A*
+772,S021,French,2023-24,Autumn,100,A*,3,T10,A*
+773,S021,French,2023-24,Spring,83,A,3,T10,A
+774,S021,French,2023-24,Summer,88,A,4,T10,A*
+775,S021,Computing,2023-24,Autumn,82,A,5,T11,A
+776,S021,Computing,2023-24,Spring,88,A,2,T11,A*
+777,S021,Computing,2023-24,Summer,93,A*,4,T11,A*
+778,S021,Art & Design,2023-24,Autumn,81,A,2,T12,B
+779,S021,Art & Design,2023-24,Spring,90,A*,3,T12,A*
+780,S021,Art & Design,2023-24,Summer,91,A*,4,T12,A*
+781,S021,Mathematics,2024-25,Autumn,,,,T02,A
+782,S021,Mathematics,2024-25,Spring,82,A,4,T02,A
+783,S021,Mathematics,2024-25,Summer,87,A,4,T02,A*
+784,S021,English Language,2024-25,Autumn,100,A*,4,T03,A*
+785,S021,English Language,2024-25,Spring,82,A,4,T04,A
+786,S021,English Language,2024-25,Summer,87,A,2,T03,A*
+787,S021,Biology,2024-25,Autumn,100,A*,3,T05,A*
+788,S021,Biology,2024-25,Spring,85,A,4,T05,A*
+789,S021,Biology,2024-25,Summer,95,A*,4,T05,A*
+790,S021,Chemistry,2024-25,Autumn,80,A,4,T06,A
+791,S021,Chemistry,2024-25,Spring,80,A,5,T06,A
+792,S021,Chemistry,2024-25,Summer,81,A,4,T06,A
+793,S021,Physics,2024-25,Autumn,91,A*,5,T07,A*
+794,S021,Physics,2024-25,Spring,,,,T07,A*
+795,S021,Physics,2024-25,Summer,86,A,4,T07,A
+796,S021,History,2024-25,Autumn,90,A*,4,T08,A*
+797,S021,History,2024-25,Spring,82,A,3,T08,A
+798,S021,History,2024-25,Summer,80,A,4,T08,B
+799,S021,Geography,2024-25,Autumn,85,A,4,T09,A
+800,S021,Geography,2024-25,Spring,73,B,4,T09,B
+801,S021,Geography,2024-25,Summer,69,C,4,T09,B
+802,S021,French,2024-25,Autumn,78,B,2,T10,A
+803,S021,French,2024-25,Spring,88,A,2,T10,A*
+804,S021,French,2024-25,Summer,92,A*,4,T10,A*
+805,S021,Computing,2024-25,Autumn,85,A,3,T11,A*
+806,S021,Computing,2024-25,Spring,83,A,3,T11,A*
+807,S021,Computing,2024-25,Summer,73,B,3,T11,B
+808,S021,Art & Design,2024-25,Autumn,80,A,4,T12,A
+809,S021,Art & Design,2024-25,Spring,92,A*,4,T12,A*
+810,S021,Art & Design,2024-25,Summer,83,A,2,T12,B
+811,S022,Mathematics,2022-23,Autumn,51,D,5,T01,D
+812,S022,Mathematics,2022-23,Spring,64,C,4,T02,B
+813,S022,Mathematics,2022-23,Summer,47,E,4,T02,D
+814,S022,English Language,2022-23,Autumn,64,C,5,T04,D
+815,S022,English Language,2022-23,Spring,68,C,4,T04,B
+816,S022,English Language,2022-23,Summer,49,E,4,T03,D
+817,S022,Biology,2022-23,Autumn,57,D,4,T05,C
+818,S022,Biology,2022-23,Spring,58,D,5,T05,C
+819,S022,Biology,2022-23,Summer,57,D,3,T05,C
+820,S022,Chemistry,2022-23,Autumn,66,C,3,T06,C
+821,S022,Chemistry,2022-23,Spring,57,D,3,T06,E
+822,S022,Chemistry,2022-23,Summer,58,D,3,T06,C
+823,S022,Physics,2022-23,Autumn,49,E,2,T07,D
+824,S022,Physics,2022-23,Spring,52,D,4,T07,E
+825,S022,Physics,2022-23,Summer,53,D,5,T07,D
+826,S022,History,2022-23,Autumn,75,B,3,T08,B
+827,S022,History,2022-23,Spring,64,C,3,T08,B
+828,S022,History,2022-23,Summer,48,E,3,T08,D
+829,S022,Geography,2022-23,Autumn,46,E,1,T09,D
+830,S022,Geography,2022-23,Spring,64,C,5,T09,B
+831,S022,Geography,2022-23,Summer,58,D,4,T09,C
+832,S022,French,2022-23,Autumn,50,D,4,T10,D
+833,S022,French,2022-23,Spring,57,D,2,T10,C
+834,S022,French,2022-23,Summer,55,D,4,T10,E
+835,S022,Computing,2022-23,Autumn,62,C,4,T11,D
+836,S022,Computing,2022-23,Spring,31,U,5,T11,U
+837,S022,Computing,2022-23,Summer,54,D,4,T11,C
+838,S022,Art & Design,2022-23,Autumn,60,C,3,T12,C
+839,S022,Art & Design,2022-23,Spring,54,D,4,T12,C
+840,S022,Art & Design,2022-23,Summer,51,D,4,T12,D
+841,S022,Mathematics,2023-24,Autumn,52,D,5,T02,D
+842,S022,Mathematics,2023-24,Spring,53,D,4,T01,D
+843,S022,Mathematics,2023-24,Summer,55,D,2,T01,C
+844,S022,English Language,2023-24,Autumn,65,C,4,T04,C
+845,S022,English Language,2023-24,Spring,62,C,3,T04,C
+846,S022,English Language,2023-24,Summer,55,D,3,T04,D
+847,S022,Biology,2023-24,Autumn,70,B,4,T05,B
+848,S022,Biology,2023-24,Spring,58,D,4,T05,C
+849,S022,Biology,2023-24,Summer,57,D,3,T05,D
+850,S022,Chemistry,2023-24,Autumn,66,C,2,T06,C
+851,S022,Chemistry,2023-24,Spring,61,C,4,T06,C
+852,S022,Chemistry,2023-24,Summer,63,C,3,T06,C
+853,S022,Physics,2023-24,Autumn,64,C,3,T07,B
+854,S022,Physics,2023-24,Spring,62,C,4,T07,C
+855,S022,Physics,2023-24,Summer,70,B,4,T07,A
+856,S022,History,2023-24,Autumn,51,D,4,T08,E
+857,S022,History,2023-24,Spring,52,D,2,T08,D
+858,S022,History,2023-24,Summer,57,D,1,T08,C
+859,S022,Geography,2023-24,Autumn,57,D,5,T09,C
+860,S022,Geography,2023-24,Spring,59,D,4,T09,D
+861,S022,Geography,2023-24,Summer,64,C,3,T09,B
+862,S022,French,2023-24,Autumn,57,D,3,T10,D
+863,S022,French,2023-24,Spring,51,D,4,T10,D
+864,S022,French,2023-24,Summer,57,D,3,T10,D
+865,S022,Computing,2023-24,Autumn,55,D,4,T11,C
+866,S022,Computing,2023-24,Spring,51,D,3,T11,D
+867,S022,Computing,2023-24,Summer,63,C,4,T11,C
+868,S022,Art & Design,2023-24,Autumn,63,C,3,T12,B
+869,S022,Art & Design,2023-24,Spring,50,D,4,T12,D
+870,S022,Art & Design,2023-24,Summer,69,C,2,T12,C
+871,S022,Mathematics,2024-25,Autumn,52,D,5,T02,D
+872,S022,Mathematics,2024-25,Spring,67,C,3,T02,B
+873,S022,Mathematics,2024-25,Summer,63,C,4,T01,C
+874,S022,English Language,2024-25,Autumn,67,C,4,T04,C
+875,S022,English Language,2024-25,Spring,65,C,4,T03,B
+876,S022,English Language,2024-25,Summer,54,D,5,T03,D
+877,S022,Biology,2024-25,Autumn,58,D,1,T05,C
+878,S022,Biology,2024-25,Spring,53,D,5,T05,D
+879,S022,Biology,2024-25,Summer,65,C,3,T05,B
+880,S022,Chemistry,2024-25,Autumn,44,E,5,T06,U
+881,S022,Chemistry,2024-25,Spring,50,D,4,T06,E
+882,S022,Chemistry,2024-25,Summer,53,D,4,T06,C
+883,S022,Physics,2024-25,Autumn,53,D,4,T07,D
+884,S022,Physics,2024-25,Spring,58,D,4,T07,C
+885,S022,Physics,2024-25,Summer,47,E,4,T07,D
+886,S022,History,2024-25,Autumn,55,D,5,T08,C
+887,S022,History,2024-25,Spring,61,C,3,T08,C
+888,S022,History,2024-25,Summer,59,D,4,T08,D
+889,S022,Geography,2024-25,Autumn,50,D,3,T09,D
+890,S022,Geography,2024-25,Spring,50,D,4,T09,D
+891,S022,Geography,2024-25,Summer,61,C,3,T09,C
+892,S022,French,2024-25,Autumn,55,D,5,T10,D
+893,S022,French,2024-25,Spring,61,C,3,T10,C
+894,S022,French,2024-25,Summer,64,C,4,T10,C
+895,S022,Computing,2024-25,Autumn,60,C,1,T11,B
+896,S022,Computing,2024-25,Spring,71,B,4,T11,B
+897,S022,Computing,2024-25,Summer,57,D,5,T11,E
+898,S022,Art & Design,2024-25,Autumn,57,D,2,T12,C
+899,S022,Art & Design,2024-25,Spring,60,C,2,T12,C
+900,S022,Art & Design,2024-25,Summer,61,C,3,T12,B
+901,S023,Mathematics,2022-23,Autumn,37,U,4,T02,U
+902,S023,Mathematics,2022-23,Spring,31,U,2,T01,U
+903,S023,Mathematics,2022-23,Summer,39,U,4,T02,D
+904,S023,English Language,2022-23,Autumn,35,U,5,T04,U
+905,S023,English Language,2022-23,Spring,48,E,3,T03,E
+906,S023,English Language,2022-23,Summer,40,E,5,T04,E
+907,S023,Biology,2022-23,Autumn,49,E,1,T05,D
+908,S023,Biology,2022-23,Spring,41,E,5,T05,D
+909,S023,Biology,2022-23,Summer,43,E,3,T05,D
+910,S023,Chemistry,2022-23,Autumn,37,U,4,T06,E
+911,S023,Chemistry,2022-23,Spring,44,E,3,T06,E
+912,S023,Chemistry,2022-23,Summer,56,D,3,T06,D
+913,S023,Physics,2022-23,Autumn,29,U,3,T07,U
+914,S023,Physics,2022-23,Spring,38,U,4,T07,E
+915,S023,Physics,2022-23,Summer,24,U,5,T07,U
+916,S023,History,2022-23,Autumn,50,D,3,T08,E
+917,S023,History,2022-23,Spring,33,U,4,T08,U
+918,S023,History,2022-23,Summer,41,E,3,T08,U
+919,S023,Geography,2022-23,Autumn,17,U,4,T09,U
+920,S023,Geography,2022-23,Spring,48,E,2,T09,E
+921,S023,Geography,2022-23,Summer,44,E,3,T09,U
+922,S023,French,2022-23,Autumn,42,E,2,T10,U
+923,S023,French,2022-23,Spring,43,E,4,T10,E
+924,S023,French,2022-23,Summer,48,E,4,T10,D
+925,S023,Computing,2022-23,Autumn,47,E,3,T11,E
+926,S023,Computing,2022-23,Spring,41,E,5,T11,E
+927,S023,Computing,2022-23,Summer,36,U,3,T11,E
+928,S023,Art & Design,2022-23,Autumn,53,D,4,T12,C
+929,S023,Art & Design,2022-23,Spring,36,U,5,T12,U
+930,S023,Art & Design,2022-23,Summer,54,D,4,T12,D
+931,S023,Mathematics,2023-24,Autumn,51,D,4,T02,E
+932,S023,Mathematics,2023-24,Spring,38,U,4,T01,U
+933,S023,Mathematics,2023-24,Summer,54,D,3,T01,D
+934,S023,English Language,2023-24,Autumn,56,D,2,T03,C
+935,S023,English Language,2023-24,Spring,47,E,5,T04,D
+936,S023,English Language,2023-24,Summer,41,E,4,T03,D
+937,S023,Biology,2023-24,Autumn,41,E,5,T05,E
+938,S023,Biology,2023-24,Spring,,,,T05,U
+939,S023,Biology,2023-24,Summer,37,U,5,T05,U
+940,S023,Chemistry,2023-24,Autumn,49,E,3,T06,E
+941,S023,Chemistry,2023-24,Spring,47,E,5,T06,D
+942,S023,Chemistry,2023-24,Summer,31,U,5,T06,E
+943,S023,Physics,2023-24,Autumn,35,U,3,T07,U
+944,S023,Physics,2023-24,Spring,39,U,5,T07,U
+945,S023,Physics,2023-24,Summer,47,E,3,T07,E
+946,S023,History,2023-24,Autumn,43,E,4,T08,E
+947,S023,History,2023-24,Spring,37,U,4,T08,U
+948,S023,History,2023-24,Summer,49,E,4,T08,E
+949,S023,Geography,2023-24,Autumn,,,,T09,D
+950,S023,Geography,2023-24,Spring,38,U,3,T09,E
+951,S023,Geography,2023-24,Summer,40,E,5,T09,E
+952,S023,French,2023-24,Autumn,46,E,1,T10,E
+953,S023,French,2023-24,Spring,35,U,3,T10,U
+954,S023,French,2023-24,Summer,51,D,4,T10,D
+955,S023,Computing,2023-24,Autumn,34,U,4,T11,U
+956,S023,Computing,2023-24,Spring,47,E,5,T11,D
+957,S023,Computing,2023-24,Summer,40,E,3,T11,D
+958,S023,Art & Design,2023-24,Autumn,49,E,5,T12,E
+959,S023,Art & Design,2023-24,Spring,27,U,3,T12,U
+960,S023,Art & Design,2023-24,Summer,32,U,3,T12,U
+961,S023,Mathematics,2024-25,Autumn,41,E,1,T01,U
+962,S023,Mathematics,2024-25,Spring,41,E,4,T01,E
+963,S023,Mathematics,2024-25,Summer,50,D,4,T02,E
+964,S023,English Language,2024-25,Autumn,44,E,2,T03,E
+965,S023,English Language,2024-25,Spring,44,E,4,T03,E
+966,S023,English Language,2024-25,Summer,23,U,2,T04,U
+967,S023,Biology,2024-25,Autumn,43,E,5,T05,E
+968,S023,Biology,2024-25,Spring,39,U,4,T05,E
+969,S023,Biology,2024-25,Summer,38,U,3,T05,E
+970,S023,Chemistry,2024-25,Autumn,48,E,5,T06,E
+971,S023,Chemistry,2024-25,Spring,47,E,5,T06,D
+972,S023,Chemistry,2024-25,Summer,46,E,2,T06,E
+973,S023,Physics,2024-25,Autumn,,,,T07,C
+974,S023,Physics,2024-25,Spring,30,U,4,T07,U
+975,S023,Physics,2024-25,Summer,46,E,1,T07,D
+976,S023,History,2024-25,Autumn,52,D,3,T08,D
+977,S023,History,2024-25,Spring,41,E,3,T08,E
+978,S023,History,2024-25,Summer,43,E,1,T08,E
+979,S023,Geography,2024-25,Autumn,29,U,5,T09,E
+980,S023,Geography,2024-25,Spring,58,D,3,T09,C
+981,S023,Geography,2024-25,Summer,39,U,1,T09,U
+982,S023,French,2024-25,Autumn,57,D,4,T10,D
+983,S023,French,2024-25,Spring,46,E,3,T10,E
+984,S023,French,2024-25,Summer,40,E,2,T10,U
+985,S023,Computing,2024-25,Autumn,43,E,5,T11,U
+986,S023,Computing,2024-25,Spring,49,E,4,T11,D
+987,S023,Computing,2024-25,Summer,37,U,4,T11,U
+988,S023,Art & Design,2024-25,Autumn,42,E,4,T12,E
+989,S023,Art & Design,2024-25,Spring,42,E,2,T12,D
+990,S023,Art & Design,2024-25,Summer,15,U,3,T12,U
+991,S024,Mathematics,2022-23,Autumn,67,C,4,T02,C
+992,S024,Mathematics,2022-23,Spring,71,B,3,T01,B
+993,S024,Mathematics,2022-23,Summer,71,B,5,T02,A
+994,S024,English Language,2022-23,Autumn,69,C,4,T04,C
+995,S024,English Language,2022-23,Spring,59,D,4,T04,C
+996,S024,English Language,2022-23,Summer,75,B,4,T04,A
+997,S024,Biology,2022-23,Autumn,76,B,3,T05,A
+998,S024,Biology,2022-23,Spring,75,B,3,T05,A
+999,S024,Biology,2022-23,Summer,71,B,3,T05,C
+1000,S024,Chemistry,2022-23,Autumn,66,C,3,T06,C
+1001,S024,Chemistry,2022-23,Spring,80,A,3,T06,A
+1002,S024,Chemistry,2022-23,Summer,64,C,4,T06,C
+1003,S024,Physics,2022-23,Autumn,64,C,4,T07,C
+1004,S024,Physics,2022-23,Spring,77,B,4,T07,B
+1005,S024,Physics,2022-23,Summer,76,B,5,T07,B
+1006,S024,History,2022-23,Autumn,,,,T08,B
+1007,S024,History,2022-23,Spring,77,B,4,T08,B
+1008,S024,History,2022-23,Summer,,,,T08,B
+1009,S024,Geography,2022-23,Autumn,66,C,3,T09,C
+1010,S024,Geography,2022-23,Spring,65,C,3,T09,B
+1011,S024,Geography,2022-23,Summer,68,C,5,T09,B
+1012,S024,French,2022-23,Autumn,62,C,2,T10,C
+1013,S024,French,2022-23,Spring,69,C,5,T10,B
+1014,S024,French,2022-23,Summer,83,A,2,T10,A
+1015,S024,Computing,2022-23,Autumn,61,C,4,T11,C
+1016,S024,Computing,2022-23,Spring,60,C,4,T11,B
+1017,S024,Computing,2022-23,Summer,66,C,2,T11,C
+1018,S024,Art & Design,2022-23,Autumn,61,C,4,T12,B
+1019,S024,Art & Design,2022-23,Spring,68,C,4,T12,A
+1020,S024,Art & Design,2022-23,Summer,62,C,4,T12,D
+1021,S024,Mathematics,2023-24,Autumn,75,B,3,T02,B
+1022,S024,Mathematics,2023-24,Spring,64,C,4,T01,B
+1023,S024,Mathematics,2023-24,Summer,65,C,4,T01,C
+1024,S024,English Language,2023-24,Autumn,58,D,3,T03,C
+1025,S024,English Language,2023-24,Spring,73,B,3,T04,B
+1026,S024,English Language,2023-24,Summer,53,D,4,T03,D
+1027,S024,Biology,2023-24,Autumn,59,D,4,T05,D
+1028,S024,Biology,2023-24,Spring,60,C,2,T05,C
+1029,S024,Biology,2023-24,Summer,69,C,2,T05,B
+1030,S024,Chemistry,2023-24,Autumn,64,C,3,T06,C
+1031,S024,Chemistry,2023-24,Spring,75,B,1,T06,B
+1032,S024,Chemistry,2023-24,Summer,59,D,4,T06,C
+1033,S024,Physics,2023-24,Autumn,63,C,4,T07,C
+1034,S024,Physics,2023-24,Spring,77,B,5,T07,B
+1035,S024,Physics,2023-24,Summer,58,D,5,T07,D
+1036,S024,History,2023-24,Autumn,83,A,1,T08,B
+1037,S024,History,2023-24,Spring,65,C,3,T08,C
+1038,S024,History,2023-24,Summer,64,C,3,T08,C
+1039,S024,Geography,2023-24,Autumn,61,C,3,T09,C
+1040,S024,Geography,2023-24,Spring,,,,T09,A*
+1041,S024,Geography,2023-24,Summer,63,C,5,T09,C
+1042,S024,French,2023-24,Autumn,69,C,5,T10,B
+1043,S024,French,2023-24,Spring,60,C,4,T10,D
+1044,S024,French,2023-24,Summer,57,D,3,T10,D
+1045,S024,Computing,2023-24,Autumn,75,B,4,T11,B
+1046,S024,Computing,2023-24,Spring,58,D,5,T11,C
+1047,S024,Computing,2023-24,Summer,73,B,4,T11,A
+1048,S024,Art & Design,2023-24,Autumn,50,D,4,T12,D
+1049,S024,Art & Design,2023-24,Spring,81,A,2,T12,A
+1050,S024,Art & Design,2023-24,Summer,60,C,4,T12,D
+1051,S024,Mathematics,2024-25,Autumn,74,B,1,T02,B
+1052,S024,Mathematics,2024-25,Spring,53,D,3,T02,D
+1053,S024,Mathematics,2024-25,Summer,83,A,4,T02,A
+1054,S024,English Language,2024-25,Autumn,61,C,2,T04,C
+1055,S024,English Language,2024-25,Spring,61,C,2,T03,C
+1056,S024,English Language,2024-25,Summer,,,,T04,B
+1057,S024,Biology,2024-25,Autumn,70,B,4,T05,B
+1058,S024,Biology,2024-25,Spring,62,C,4,T05,C
+1059,S024,Biology,2024-25,Summer,71,B,3,T05,C
+1060,S024,Chemistry,2024-25,Autumn,53,D,5,T06,D
+1061,S024,Chemistry,2024-25,Spring,66,C,4,T06,B
+1062,S024,Chemistry,2024-25,Summer,67,C,3,T06,C
+1063,S024,Physics,2024-25,Autumn,57,D,4,T07,C
+1064,S024,Physics,2024-25,Spring,,,,T07,C
+1065,S024,Physics,2024-25,Summer,74,B,4,T07,B
+1066,S024,History,2024-25,Autumn,58,D,5,T08,C
+1067,S024,History,2024-25,Spring,65,C,4,T08,B
+1068,S024,History,2024-25,Summer,63,C,4,T08,C
+1069,S024,Geography,2024-25,Autumn,55,D,3,T09,E
+1070,S024,Geography,2024-25,Spring,66,C,2,T09,C
+1071,S024,Geography,2024-25,Summer,,,,T09,C
+1072,S024,French,2024-25,Autumn,82,A,4,T10,A*
+1073,S024,French,2024-25,Spring,58,D,2,T10,D
+1074,S024,French,2024-25,Summer,67,C,5,T10,C
+1075,S024,Computing,2024-25,Autumn,64,C,4,T11,C
+1076,S024,Computing,2024-25,Spring,71,B,3,T11,B
+1077,S024,Computing,2024-25,Summer,67,C,2,T11,C
+1078,S024,Art & Design,2024-25,Autumn,84,A,3,T12,A*
+1079,S024,Art & Design,2024-25,Spring,71,B,3,T12,B
+1080,S024,Art & Design,2024-25,Summer,57,D,4,T12,D
+1081,S025,Mathematics,2022-23,Autumn,60,C,2,T02,C
+1082,S025,Mathematics,2022-23,Spring,62,C,4,T01,B
+1083,S025,Mathematics,2022-23,Summer,59,D,4,T02,D
+1084,S025,English Language,2022-23,Autumn,59,D,4,T04,D
+1085,S025,English Language,2022-23,Spring,71,B,2,T03,A
+1086,S025,English Language,2022-23,Summer,64,C,4,T04,C
+1087,S025,Biology,2022-23,Autumn,69,C,5,T05,C
+1088,S025,Biology,2022-23,Spring,,,,T05,B
+1089,S025,Biology,2022-23,Summer,59,D,3,T05,C
+1090,S025,Chemistry,2022-23,Autumn,71,B,4,T06,A
+1091,S025,Chemistry,2022-23,Spring,69,C,2,T06,A
+1092,S025,Chemistry,2022-23,Summer,68,C,3,T06,D
+1093,S025,Physics,2022-23,Autumn,64,C,5,T07,C
+1094,S025,Physics,2022-23,Spring,64,C,1,T07,C
+1095,S025,Physics,2022-23,Summer,75,B,5,T07,B
+1096,S025,History,2022-23,Autumn,58,D,4,T08,D
+1097,S025,History,2022-23,Spring,56,D,1,T08,C
+1098,S025,History,2022-23,Summer,65,C,5,T08,C
+1099,S025,Geography,2022-23,Autumn,65,C,5,T09,B
+1100,S025,Geography,2022-23,Spring,71,B,2,T09,C
+1101,S025,Geography,2022-23,Summer,70,B,4,T09,B
+1102,S025,French,2022-23,Autumn,72,B,3,T10,B
+1103,S025,French,2022-23,Spring,53,D,2,T10,D
+1104,S025,French,2022-23,Summer,59,D,3,T10,C
+1105,S025,Computing,2022-23,Autumn,62,C,5,T11,C
+1106,S025,Computing,2022-23,Spring,62,C,1,T11,B
+1107,S025,Computing,2022-23,Summer,58,D,3,T11,C
+1108,S025,Art & Design,2022-23,Autumn,58,D,4,T12,C
+1109,S025,Art & Design,2022-23,Spring,68,C,4,T12,C
+1110,S025,Art & Design,2022-23,Summer,61,C,3,T12,C
+1111,S025,Mathematics,2023-24,Autumn,64,C,4,T01,C
+1112,S025,Mathematics,2023-24,Spring,53,D,4,T02,D
+1113,S025,Mathematics,2023-24,Summer,52,D,3,T01,D
+1114,S025,English Language,2023-24,Autumn,44,E,3,T03,D
+1115,S025,English Language,2023-24,Spring,66,C,3,T04,B
+1116,S025,English Language,2023-24,Summer,67,C,3,T03,C
+1117,S025,Biology,2023-24,Autumn,64,C,4,T05,C
+1118,S025,Biology,2023-24,Spring,70,B,3,T05,B
+1119,S025,Biology,2023-24,Summer,67,C,5,T05,B
+1120,S025,Chemistry,2023-24,Autumn,62,C,2,T06,B
+1121,S025,Chemistry,2023-24,Spring,78,B,3,T06,B
+1122,S025,Chemistry,2023-24,Summer,65,C,3,T06,B
+1123,S025,Physics,2023-24,Autumn,72,B,2,T07,B
+1124,S025,Physics,2023-24,Spring,65,C,5,T07,B
+1125,S025,Physics,2023-24,Summer,52,D,3,T07,C
+1126,S025,History,2023-24,Autumn,72,B,5,T08,B
+1127,S025,History,2023-24,Spring,58,D,4,T08,C
+1128,S025,History,2023-24,Summer,72,B,5,T08,A
+1129,S025,Geography,2023-24,Autumn,55,D,1,T09,D
+1130,S025,Geography,2023-24,Spring,54,D,3,T09,D
+1131,S025,Geography,2023-24,Summer,65,C,1,T09,B
+1132,S025,French,2023-24,Autumn,62,C,4,T10,B
+1133,S025,French,2023-24,Spring,65,C,4,T10,B
+1134,S025,French,2023-24,Summer,62,C,4,T10,C
+1135,S025,Computing,2023-24,Autumn,56,D,4,T11,D
+1136,S025,Computing,2023-24,Spring,72,B,3,T11,B
+1137,S025,Computing,2023-24,Summer,53,D,3,T11,D
+1138,S025,Art & Design,2023-24,Autumn,59,D,4,T12,C
+1139,S025,Art & Design,2023-24,Spring,61,C,4,T12,D
+1140,S025,Art & Design,2023-24,Summer,72,B,4,T12,B
+1141,S025,Mathematics,2024-25,Autumn,69,C,4,T01,B
+1142,S025,Mathematics,2024-25,Spring,50,D,5,T02,D
+1143,S025,Mathematics,2024-25,Summer,66,C,4,T01,C
+1144,S025,English Language,2024-25,Autumn,65,C,5,T04,C
+1145,S025,English Language,2024-25,Spring,54,D,5,T03,C
+1146,S025,English Language,2024-25,Summer,79,B,3,T03,B
+1147,S025,Biology,2024-25,Autumn,83,A,3,T05,B
+1148,S025,Biology,2024-25,Spring,64,C,4,T05,C
+1149,S025,Biology,2024-25,Summer,70,B,4,T05,C
+1150,S025,Chemistry,2024-25,Autumn,67,C,2,T06,B
+1151,S025,Chemistry,2024-25,Spring,55,D,4,T06,D
+1152,S025,Chemistry,2024-25,Summer,65,C,4,T06,C
+1153,S025,Physics,2024-25,Autumn,68,C,3,T07,B
+1154,S025,Physics,2024-25,Spring,71,B,5,T07,B
+1155,S025,Physics,2024-25,Summer,71,B,5,T07,B
+1156,S025,History,2024-25,Autumn,68,C,5,T08,B
+1157,S025,History,2024-25,Spring,67,C,4,T08,B
+1158,S025,History,2024-25,Summer,69,C,1,T08,B
+1159,S025,Geography,2024-25,Autumn,63,C,5,T09,C
+1160,S025,Geography,2024-25,Spring,65,C,4,T09,B
+1161,S025,Geography,2024-25,Summer,61,C,4,T09,C
+1162,S025,French,2024-25,Autumn,58,D,5,T10,C
+1163,S025,French,2024-25,Spring,51,D,3,T10,D
+1164,S025,French,2024-25,Summer,46,E,4,T10,D
+1165,S025,Computing,2024-25,Autumn,65,C,3,T11,B
+1166,S025,Computing,2024-25,Spring,67,C,3,T11,B
+1167,S025,Computing,2024-25,Summer,67,C,4,T11,B
+1168,S025,Art & Design,2024-25,Autumn,62,C,4,T12,C
+1169,S025,Art & Design,2024-25,Spring,59,D,5,T12,C
+1170,S025,Art & Design,2024-25,Summer,64,C,3,T12,C
+1171,S026,Mathematics,2022-23,Autumn,37,U,5,T02,E
+1172,S026,Mathematics,2022-23,Spring,58,D,4,T02,D
+1173,S026,Mathematics,2022-23,Summer,58,D,3,T02,C
+1174,S026,English Language,2022-23,Autumn,53,D,5,T04,D
+1175,S026,English Language,2022-23,Spring,45,E,3,T04,D
+1176,S026,English Language,2022-23,Summer,61,C,3,T04,C
+1177,S026,Biology,2022-23,Autumn,46,E,3,T05,D
+1178,S026,Biology,2022-23,Spring,60,C,4,T05,D
+1179,S026,Biology,2022-23,Summer,75,B,4,T05,B
+1180,S026,Chemistry,2022-23,Autumn,48,E,3,T06,D
+1181,S026,Chemistry,2022-23,Spring,39,U,4,T06,E
+1182,S026,Chemistry,2022-23,Summer,46,E,4,T06,E
+1183,S026,Physics,2022-23,Autumn,64,C,4,T07,C
+1184,S026,Physics,2022-23,Spring,62,C,3,T07,C
+1185,S026,Physics,2022-23,Summer,68,C,4,T07,B
+1186,S026,History,2022-23,Autumn,57,D,2,T08,C
+1187,S026,History,2022-23,Spring,62,C,4,T08,C
+1188,S026,History,2022-23,Summer,66,C,3,T08,C
+1189,S026,Geography,2022-23,Autumn,47,E,1,T09,E
+1190,S026,Geography,2022-23,Spring,53,D,5,T09,D
+1191,S026,Geography,2022-23,Summer,45,E,4,T09,E
+1192,S026,French,2022-23,Autumn,64,C,2,T10,C
+1193,S026,French,2022-23,Spring,58,D,5,T10,C
+1194,S026,French,2022-23,Summer,56,D,2,T10,C
+1195,S026,Computing,2022-23,Autumn,64,C,2,T11,B
+1196,S026,Computing,2022-23,Spring,48,E,2,T11,D
+1197,S026,Computing,2022-23,Summer,61,C,2,T11,C
+1198,S026,Art & Design,2022-23,Autumn,62,C,3,T12,C
+1199,S026,Art & Design,2022-23,Spring,64,C,3,T12,D
+1200,S026,Art & Design,2022-23,Summer,58,D,5,T12,C
+1201,S026,Mathematics,2023-24,Autumn,58,D,4,T01,C
+1202,S026,Mathematics,2023-24,Spring,74,B,4,T01,A
+1203,S026,Mathematics,2023-24,Summer,65,C,4,T01,C
+1204,S026,English Language,2023-24,Autumn,65,C,4,T04,B
+1205,S026,English Language,2023-24,Spring,53,D,5,T03,D
+1206,S026,English Language,2023-24,Summer,69,C,4,T04,B
+1207,S026,Biology,2023-24,Autumn,65,C,2,T05,C
+1208,S026,Biology,2023-24,Spring,56,D,4,T05,C
+1209,S026,Biology,2023-24,Summer,65,C,4,T05,B
+1210,S026,Chemistry,2023-24,Autumn,64,C,3,T06,C
+1211,S026,Chemistry,2023-24,Spring,74,B,4,T06,A
+1212,S026,Chemistry,2023-24,Summer,70,B,2,T06,B
+1213,S026,Physics,2023-24,Autumn,59,D,3,T07,C
+1214,S026,Physics,2023-24,Spring,64,C,3,T07,C
+1215,S026,Physics,2023-24,Summer,40,E,2,T07,U
+1216,S026,History,2023-24,Autumn,58,D,4,T08,C
+1217,S026,History,2023-24,Spring,66,C,3,T08,D
+1218,S026,History,2023-24,Summer,56,D,4,T08,D
+1219,S026,Geography,2023-24,Autumn,49,E,2,T09,D
+1220,S026,Geography,2023-24,Spring,65,C,1,T09,C
+1221,S026,Geography,2023-24,Summer,58,D,4,T09,D
+1222,S026,French,2023-24,Autumn,55,D,4,T10,D
+1223,S026,French,2023-24,Spring,56,D,3,T10,D
+1224,S026,French,2023-24,Summer,59,D,4,T10,C
+1225,S026,Computing,2023-24,Autumn,67,C,5,T11,B
+1226,S026,Computing,2023-24,Spring,70,B,5,T11,B
+1227,S026,Computing,2023-24,Summer,65,C,3,T11,B
+1228,S026,Art & Design,2023-24,Autumn,70,B,4,T12,B
+1229,S026,Art & Design,2023-24,Spring,66,C,3,T12,C
+1230,S026,Art & Design,2023-24,Summer,52,D,4,T12,C
+1231,S026,Mathematics,2024-25,Autumn,63,C,5,T02,C
+1232,S026,Mathematics,2024-25,Spring,49,E,4,T02,E
+1233,S026,Mathematics,2024-25,Summer,56,D,3,T01,C
+1234,S026,English Language,2024-25,Autumn,54,D,5,T03,D
+1235,S026,English Language,2024-25,Spring,64,C,4,T03,C
+1236,S026,English Language,2024-25,Summer,,,,T04,C
+1237,S026,Biology,2024-25,Autumn,59,D,3,T05,C
+1238,S026,Biology,2024-25,Spring,68,C,4,T05,B
+1239,S026,Biology,2024-25,Summer,47,E,3,T05,D
+1240,S026,Chemistry,2024-25,Autumn,52,D,5,T06,D
+1241,S026,Chemistry,2024-25,Spring,54,D,1,T06,D
+1242,S026,Chemistry,2024-25,Summer,46,E,4,T06,E
+1243,S026,Physics,2024-25,Autumn,59,D,4,T07,C
+1244,S026,Physics,2024-25,Spring,64,C,3,T07,C
+1245,S026,Physics,2024-25,Summer,55,D,3,T07,D
+1246,S026,History,2024-25,Autumn,45,E,4,T08,E
+1247,S026,History,2024-25,Spring,65,C,4,T08,A
+1248,S026,History,2024-25,Summer,51,D,5,T08,E
+1249,S026,Geography,2024-25,Autumn,60,C,3,T09,C
+1250,S026,Geography,2024-25,Spring,68,C,3,T09,B
+1251,S026,Geography,2024-25,Summer,72,B,4,T09,C
+1252,S026,French,2024-25,Autumn,59,D,4,T10,C
+1253,S026,French,2024-25,Spring,64,C,3,T10,C
+1254,S026,French,2024-25,Summer,52,D,4,T10,D
+1255,S026,Computing,2024-25,Autumn,60,C,4,T11,C
+1256,S026,Computing,2024-25,Spring,67,C,5,T11,B
+1257,S026,Computing,2024-25,Summer,76,B,3,T11,A
+1258,S026,Art & Design,2024-25,Autumn,67,C,3,T12,C
+1259,S026,Art & Design,2024-25,Spring,69,C,3,T12,C
+1260,S026,Art & Design,2024-25,Summer,70,B,5,T12,C
+1261,S027,Mathematics,2022-23,Autumn,88,A,4,T02,A
+1262,S027,Mathematics,2022-23,Spring,91,A*,4,T01,A*
+1263,S027,Mathematics,2022-23,Summer,80,A,3,T02,B
+1264,S027,English Language,2022-23,Autumn,84,A,4,T04,A
+1265,S027,English Language,2022-23,Spring,78,B,4,T03,A*
+1266,S027,English Language,2022-23,Summer,78,B,3,T04,A
+1267,S027,Biology,2022-23,Autumn,81,A,4,T05,A
+1268,S027,Biology,2022-23,Spring,69,C,4,T05,C
+1269,S027,Biology,2022-23,Summer,73,B,4,T05,B
+1270,S027,Chemistry,2022-23,Autumn,76,B,3,T06,B
+1271,S027,Chemistry,2022-23,Spring,100,A*,3,T06,A*
+1272,S027,Chemistry,2022-23,Summer,76,B,4,T06,A
+1273,S027,Physics,2022-23,Autumn,76,B,4,T07,B
+1274,S027,Physics,2022-23,Spring,84,A,4,T07,A*
+1275,S027,Physics,2022-23,Summer,71,B,3,T07,B
+1276,S027,History,2022-23,Autumn,83,A,4,T08,A
+1277,S027,History,2022-23,Spring,78,B,4,T08,B
+1278,S027,History,2022-23,Summer,80,A,4,T08,A
+1279,S027,Geography,2022-23,Autumn,72,B,3,T09,B
+1280,S027,Geography,2022-23,Spring,79,B,4,T09,A
+1281,S027,Geography,2022-23,Summer,77,B,3,T09,A*
+1282,S027,French,2022-23,Autumn,76,B,5,T10,A*
+1283,S027,French,2022-23,Spring,70,B,4,T10,A
+1284,S027,French,2022-23,Summer,,,,T10,A*
+1285,S027,Computing,2022-23,Autumn,91,A*,4,T11,A*
+1286,S027,Computing,2022-23,Spring,74,B,3,T11,B
+1287,S027,Computing,2022-23,Summer,91,A*,5,T11,A*
+1288,S027,Art & Design,2022-23,Autumn,82,A,3,T12,A
+1289,S027,Art & Design,2022-23,Spring,80,A,3,T12,A
+1290,S027,Art & Design,2022-23,Summer,78,B,4,T12,B
+1291,S027,Mathematics,2023-24,Autumn,85,A,3,T01,A
+1292,S027,Mathematics,2023-24,Spring,70,B,3,T01,B
+1293,S027,Mathematics,2023-24,Summer,81,A,4,T02,A*
+1294,S027,English Language,2023-24,Autumn,82,A,4,T03,A*
+1295,S027,English Language,2023-24,Spring,82,A,5,T04,A*
+1296,S027,English Language,2023-24,Summer,95,A*,3,T03,A
+1297,S027,Biology,2023-24,Autumn,82,A,2,T05,A
+1298,S027,Biology,2023-24,Spring,74,B,3,T05,C
+1299,S027,Biology,2023-24,Summer,82,A,3,T05,A
+1300,S027,Chemistry,2023-24,Autumn,98,A*,4,T06,A*
+1301,S027,Chemistry,2023-24,Spring,81,A,4,T06,A
+1302,S027,Chemistry,2023-24,Summer,78,B,4,T06,A
+1303,S027,Physics,2023-24,Autumn,84,A,1,T07,A*
+1304,S027,Physics,2023-24,Spring,90,A*,5,T07,A*
+1305,S027,Physics,2023-24,Summer,84,A,4,T07,A*
+1306,S027,History,2023-24,Autumn,90,A*,3,T08,A*
+1307,S027,History,2023-24,Spring,78,B,4,T08,B
+1308,S027,History,2023-24,Summer,78,B,5,T08,B
+1309,S027,Geography,2023-24,Autumn,,,,T09,B
+1310,S027,Geography,2023-24,Spring,67,C,4,T09,C
+1311,S027,Geography,2023-24,Summer,89,A,5,T09,A*
+1312,S027,French,2023-24,Autumn,84,A,4,T10,A
+1313,S027,French,2023-24,Spring,82,A,4,T10,A
+1314,S027,French,2023-24,Summer,94,A*,5,T10,A*
+1315,S027,Computing,2023-24,Autumn,85,A,3,T11,A
+1316,S027,Computing,2023-24,Spring,72,B,2,T11,A
+1317,S027,Computing,2023-24,Summer,100,A*,2,T11,A*
+1318,S027,Art & Design,2023-24,Autumn,94,A*,4,T12,A*
+1319,S027,Art & Design,2023-24,Spring,89,A,5,T12,A*
+1320,S027,Art & Design,2023-24,Summer,76,B,2,T12,B
+1321,S027,Mathematics,2024-25,Autumn,81,A,4,T02,A
+1322,S027,Mathematics,2024-25,Spring,87,A,3,T02,A*
+1323,S027,Mathematics,2024-25,Summer,87,A,4,T01,A*
+1324,S027,English Language,2024-25,Autumn,78,B,2,T04,B
+1325,S027,English Language,2024-25,Spring,89,A,2,T03,A*
+1326,S027,English Language,2024-25,Summer,76,B,3,T03,C
+1327,S027,Biology,2024-25,Autumn,76,B,4,T05,A
+1328,S027,Biology,2024-25,Spring,,,,T05,A
+1329,S027,Biology,2024-25,Summer,75,B,4,T05,B
+1330,S027,Chemistry,2024-25,Autumn,87,A,2,T06,A
+1331,S027,Chemistry,2024-25,Spring,94,A*,3,T06,A*
+1332,S027,Chemistry,2024-25,Summer,97,A*,3,T06,A*
+1333,S027,Physics,2024-25,Autumn,71,B,2,T07,B
+1334,S027,Physics,2024-25,Spring,82,A,4,T07,A*
+1335,S027,Physics,2024-25,Summer,67,C,4,T07,C
+1336,S027,History,2024-25,Autumn,63,C,5,T08,C
+1337,S027,History,2024-25,Spring,83,A,1,T08,A
+1338,S027,History,2024-25,Summer,78,B,4,T08,A
+1339,S027,Geography,2024-25,Autumn,69,C,2,T09,B
+1340,S027,Geography,2024-25,Spring,89,A,5,T09,A*
+1341,S027,Geography,2024-25,Summer,80,A,4,T09,A
+1342,S027,French,2024-25,Autumn,97,A*,3,T10,A*
+1343,S027,French,2024-25,Spring,73,B,5,T10,A
+1344,S027,French,2024-25,Summer,,,,T10,A
+1345,S027,Computing,2024-25,Autumn,85,A,4,T11,A
+1346,S027,Computing,2024-25,Spring,94,A*,2,T11,A*
+1347,S027,Computing,2024-25,Summer,85,A,4,T11,A
+1348,S027,Art & Design,2024-25,Autumn,87,A,5,T12,A*
+1349,S027,Art & Design,2024-25,Spring,75,B,4,T12,B
+1350,S027,Art & Design,2024-25,Summer,74,B,5,T12,A
+1351,S028,Mathematics,2022-23,Autumn,35,U,4,T02,U
+1352,S028,Mathematics,2022-23,Spring,43,E,2,T02,D
+1353,S028,Mathematics,2022-23,Summer,33,U,4,T01,U
+1354,S028,English Language,2022-23,Autumn,38,U,3,T03,E
+1355,S028,English Language,2022-23,Spring,37,U,3,T03,E
+1356,S028,English Language,2022-23,Summer,53,D,4,T04,D
+1357,S028,Biology,2022-23,Autumn,49,E,4,T05,E
+1358,S028,Biology,2022-23,Spring,47,E,4,T05,E
+1359,S028,Biology,2022-23,Summer,41,E,5,T05,U
+1360,S028,Chemistry,2022-23,Autumn,43,E,4,T06,E
+1361,S028,Chemistry,2022-23,Spring,43,E,3,T06,E
+1362,S028,Chemistry,2022-23,Summer,49,E,3,T06,D
+1363,S028,Physics,2022-23,Autumn,46,E,4,T07,C
+1364,S028,Physics,2022-23,Spring,42,E,4,T07,E
+1365,S028,Physics,2022-23,Summer,37,U,4,T07,U
+1366,S028,History,2022-23,Autumn,39,U,3,T08,U
+1367,S028,History,2022-23,Spring,32,U,5,T08,U
+1368,S028,History,2022-23,Summer,26,U,4,T08,U
+1369,S028,Geography,2022-23,Autumn,30,U,3,T09,E
+1370,S028,Geography,2022-23,Spring,57,D,3,T09,C
+1371,S028,Geography,2022-23,Summer,53,D,5,T09,D
+1372,S028,French,2022-23,Autumn,49,E,5,T10,E
+1373,S028,French,2022-23,Spring,46,E,4,T10,E
+1374,S028,French,2022-23,Summer,34,U,4,T10,U
+1375,S028,Computing,2022-23,Autumn,50,D,3,T11,E
+1376,S028,Computing,2022-23,Spring,48,E,3,T11,D
+1377,S028,Computing,2022-23,Summer,34,U,4,T11,U
+1378,S028,Art & Design,2022-23,Autumn,39,U,1,T12,U
+1379,S028,Art & Design,2022-23,Spring,41,E,5,T12,U
+1380,S028,Art & Design,2022-23,Summer,43,E,4,T12,E
+1381,S028,Mathematics,2023-24,Autumn,37,U,3,T01,U
+1382,S028,Mathematics,2023-24,Spring,54,D,5,T01,D
+1383,S028,Mathematics,2023-24,Summer,36,U,4,T01,E
+1384,S028,English Language,2023-24,Autumn,33,U,3,T03,U
+1385,S028,English Language,2023-24,Spring,37,U,4,T04,E
+1386,S028,English Language,2023-24,Summer,55,D,4,T04,C
+1387,S028,Biology,2023-24,Autumn,36,U,4,T05,U
+1388,S028,Biology,2023-24,Spring,29,U,5,T05,U
+1389,S028,Biology,2023-24,Summer,35,U,4,T05,U
+1390,S028,Chemistry,2023-24,Autumn,48,E,5,T06,D
+1391,S028,Chemistry,2023-24,Spring,37,U,3,T06,E
+1392,S028,Chemistry,2023-24,Summer,51,D,2,T06,C
+1393,S028,Physics,2023-24,Autumn,44,E,3,T07,E
+1394,S028,Physics,2023-24,Spring,25,U,2,T07,U
+1395,S028,Physics,2023-24,Summer,,,,T07,E
+1396,S028,History,2023-24,Autumn,36,U,1,T08,U
+1397,S028,History,2023-24,Spring,23,U,4,T08,U
+1398,S028,History,2023-24,Summer,41,E,2,T08,E
+1399,S028,Geography,2023-24,Autumn,37,U,4,T09,U
+1400,S028,Geography,2023-24,Spring,35,U,3,T09,U
+1401,S028,Geography,2023-24,Summer,51,D,3,T09,D
+1402,S028,French,2023-24,Autumn,48,E,4,T10,E
+1403,S028,French,2023-24,Spring,47,E,3,T10,D
+1404,S028,French,2023-24,Summer,26,U,4,T10,U
+1405,S028,Computing,2023-24,Autumn,44,E,1,T11,E
+1406,S028,Computing,2023-24,Spring,35,U,3,T11,U
+1407,S028,Computing,2023-24,Summer,55,D,1,T11,C
+1408,S028,Art & Design,2023-24,Autumn,49,E,3,T12,D
+1409,S028,Art & Design,2023-24,Spring,43,E,2,T12,E
+1410,S028,Art & Design,2023-24,Summer,50,D,4,T12,C
+1411,S028,Mathematics,2024-25,Autumn,38,U,2,T02,E
+1412,S028,Mathematics,2024-25,Spring,50,D,3,T01,C
+1413,S028,Mathematics,2024-25,Summer,40,E,3,T02,D
+1414,S028,English Language,2024-25,Autumn,38,U,4,T03,E
+1415,S028,English Language,2024-25,Spring,34,U,5,T04,U
+1416,S028,English Language,2024-25,Summer,36,U,4,T03,U
+1417,S028,Biology,2024-25,Autumn,36,U,4,T05,E
+1418,S028,Biology,2024-25,Spring,45,E,3,T05,D
+1419,S028,Biology,2024-25,Summer,24,U,4,T05,U
+1420,S028,Chemistry,2024-25,Autumn,,,,T06,D
+1421,S028,Chemistry,2024-25,Spring,48,E,4,T06,E
+1422,S028,Chemistry,2024-25,Summer,42,E,5,T06,E
+1423,S028,Physics,2024-25,Autumn,39,U,3,T07,U
+1424,S028,Physics,2024-25,Spring,45,E,5,T07,E
+1425,S028,Physics,2024-25,Summer,25,U,5,T07,U
+1426,S028,History,2024-25,Autumn,52,D,3,T08,D
+1427,S028,History,2024-25,Spring,29,U,1,T08,U
+1428,S028,History,2024-25,Summer,48,E,5,T08,D
+1429,S028,Geography,2024-25,Autumn,49,E,4,T09,E
+1430,S028,Geography,2024-25,Spring,37,U,1,T09,U
+1431,S028,Geography,2024-25,Summer,30,U,5,T09,E
+1432,S028,French,2024-25,Autumn,47,E,5,T10,E
+1433,S028,French,2024-25,Spring,47,E,3,T10,E
+1434,S028,French,2024-25,Summer,34,U,3,T10,U
+1435,S028,Computing,2024-25,Autumn,43,E,5,T11,C
+1436,S028,Computing,2024-25,Spring,50,D,3,T11,E
+1437,S028,Computing,2024-25,Summer,37,U,3,T11,U
+1438,S028,Art & Design,2024-25,Autumn,44,E,4,T12,D
+1439,S028,Art & Design,2024-25,Spring,41,E,3,T12,E
+1440,S028,Art & Design,2024-25,Summer,38,U,5,T12,U
+1441,S029,Mathematics,2022-23,Autumn,49,E,3,T02,D
+1442,S029,Mathematics,2022-23,Spring,59,D,4,T02,E
+1443,S029,Mathematics,2022-23,Summer,69,C,4,T02,C
+1444,S029,English Language,2022-23,Autumn,59,D,4,T03,C
+1445,S029,English Language,2022-23,Spring,67,C,1,T03,C
+1446,S029,English Language,2022-23,Summer,73,B,5,T03,A
+1447,S029,Biology,2022-23,Autumn,57,D,3,T05,D
+1448,S029,Biology,2022-23,Spring,61,C,1,T05,C
+1449,S029,Biology,2022-23,Summer,48,E,3,T05,D
+1450,S029,Chemistry,2022-23,Autumn,68,C,5,T06,C
+1451,S029,Chemistry,2022-23,Spring,58,D,4,T06,C
+1452,S029,Chemistry,2022-23,Summer,47,E,2,T06,D
+1453,S029,Physics,2022-23,Autumn,55,D,4,T07,C
+1454,S029,Physics,2022-23,Spring,64,C,4,T07,B
+1455,S029,Physics,2022-23,Summer,63,C,3,T07,C
+1456,S029,History,2022-23,Autumn,65,C,5,T08,C
+1457,S029,History,2022-23,Spring,61,C,4,T08,D
+1458,S029,History,2022-23,Summer,,,,T08,B
+1459,S029,Geography,2022-23,Autumn,57,D,4,T09,C
+1460,S029,Geography,2022-23,Spring,56,D,3,T09,D
+1461,S029,Geography,2022-23,Summer,50,D,4,T09,D
+1462,S029,French,2022-23,Autumn,66,C,4,T10,C
+1463,S029,French,2022-23,Spring,74,B,2,T10,B
+1464,S029,French,2022-23,Summer,54,D,4,T10,C
+1465,S029,Computing,2022-23,Autumn,62,C,5,T11,D
+1466,S029,Computing,2022-23,Spring,77,B,3,T11,B
+1467,S029,Computing,2022-23,Summer,68,C,5,T11,B
+1468,S029,Art & Design,2022-23,Autumn,50,D,3,T12,D
+1469,S029,Art & Design,2022-23,Spring,66,C,1,T12,B
+1470,S029,Art & Design,2022-23,Summer,53,D,4,T12,D
+1471,S029,Mathematics,2023-24,Autumn,72,B,3,T02,B
+1472,S029,Mathematics,2023-24,Spring,63,C,3,T01,C
+1473,S029,Mathematics,2023-24,Summer,66,C,3,T02,B
+1474,S029,English Language,2023-24,Autumn,59,D,3,T04,C
+1475,S029,English Language,2023-24,Spring,51,D,3,T03,D
+1476,S029,English Language,2023-24,Summer,64,C,5,T03,C
+1477,S029,Biology,2023-24,Autumn,68,C,5,T05,C
+1478,S029,Biology,2023-24,Spring,61,C,3,T05,C
+1479,S029,Biology,2023-24,Summer,56,D,5,T05,C
+1480,S029,Chemistry,2023-24,Autumn,66,C,4,T06,B
+1481,S029,Chemistry,2023-24,Spring,52,D,5,T06,D
+1482,S029,Chemistry,2023-24,Summer,52,D,4,T06,C
+1483,S029,Physics,2023-24,Autumn,42,E,3,T07,E
+1484,S029,Physics,2023-24,Spring,45,E,3,T07,E
+1485,S029,Physics,2023-24,Summer,47,E,4,T07,D
+1486,S029,History,2023-24,Autumn,70,B,4,T08,C
+1487,S029,History,2023-24,Spring,60,C,4,T08,C
+1488,S029,History,2023-24,Summer,75,B,3,T08,B
+1489,S029,Geography,2023-24,Autumn,74,B,5,T09,B
+1490,S029,Geography,2023-24,Spring,62,C,3,T09,C
+1491,S029,Geography,2023-24,Summer,61,C,3,T09,D
+1492,S029,French,2023-24,Autumn,60,C,3,T10,C
+1493,S029,French,2023-24,Spring,60,C,2,T10,C
+1494,S029,French,2023-24,Summer,68,C,2,T10,B
+1495,S029,Computing,2023-24,Autumn,57,D,1,T11,D
+1496,S029,Computing,2023-24,Spring,69,C,4,T11,B
+1497,S029,Computing,2023-24,Summer,69,C,5,T11,B
+1498,S029,Art & Design,2023-24,Autumn,59,D,4,T12,B
+1499,S029,Art & Design,2023-24,Spring,54,D,1,T12,D
+1500,S029,Art & Design,2023-24,Summer,54,D,3,T12,E
+1501,S029,Mathematics,2024-25,Autumn,57,D,4,T02,D
+1502,S029,Mathematics,2024-25,Spring,61,C,3,T02,C
+1503,S029,Mathematics,2024-25,Summer,67,C,3,T01,C
+1504,S029,English Language,2024-25,Autumn,71,B,4,T04,B
+1505,S029,English Language,2024-25,Spring,66,C,3,T04,C
+1506,S029,English Language,2024-25,Summer,60,C,5,T03,B
+1507,S029,Biology,2024-25,Autumn,55,D,4,T05,C
+1508,S029,Biology,2024-25,Spring,58,D,4,T05,D
+1509,S029,Biology,2024-25,Summer,60,C,4,T05,C
+1510,S029,Chemistry,2024-25,Autumn,61,C,1,T06,C
+1511,S029,Chemistry,2024-25,Spring,59,D,3,T06,C
+1512,S029,Chemistry,2024-25,Summer,70,B,2,T06,B
+1513,S029,Physics,2024-25,Autumn,72,B,3,T07,B
+1514,S029,Physics,2024-25,Spring,65,C,3,T07,B
+1515,S029,Physics,2024-25,Summer,62,C,4,T07,C
+1516,S029,History,2024-25,Autumn,67,C,3,T08,B
+1517,S029,History,2024-25,Spring,59,D,2,T08,D
+1518,S029,History,2024-25,Summer,55,D,4,T08,D
+1519,S029,Geography,2024-25,Autumn,61,C,3,T09,D
+1520,S029,Geography,2024-25,Spring,71,B,3,T09,B
+1521,S029,Geography,2024-25,Summer,61,C,3,T09,C
+1522,S029,French,2024-25,Autumn,56,D,3,T10,C
+1523,S029,French,2024-25,Spring,75,B,4,T10,B
+1524,S029,French,2024-25,Summer,56,D,5,T10,D
+1525,S029,Computing,2024-25,Autumn,66,C,3,T11,C
+1526,S029,Computing,2024-25,Spring,58,D,3,T11,D
+1527,S029,Computing,2024-25,Summer,58,D,4,T11,D
+1528,S029,Art & Design,2024-25,Autumn,68,C,3,T12,B
+1529,S029,Art & Design,2024-25,Spring,71,B,4,T12,B
+1530,S029,Art & Design,2024-25,Summer,59,D,3,T12,C
+1531,S030,Mathematics,2022-23,Autumn,87,A,2,T02,A*
+1532,S030,Mathematics,2022-23,Spring,86,A,4,T01,A
+1533,S030,Mathematics,2022-23,Summer,91,A*,3,T01,A*
+1534,S030,English Language,2022-23,Autumn,78,B,1,T03,A
+1535,S030,English Language,2022-23,Spring,86,A,1,T04,A*
+1536,S030,English Language,2022-23,Summer,,,,T03,A*
+1537,S030,Biology,2022-23,Autumn,88,A,5,T05,A*
+1538,S030,Biology,2022-23,Spring,97,A*,5,T05,A*
+1539,S030,Biology,2022-23,Summer,96,A*,5,T05,A*
+1540,S030,Chemistry,2022-23,Autumn,88,A,4,T06,A*
+1541,S030,Chemistry,2022-23,Spring,88,A,3,T06,A*
+1542,S030,Chemistry,2022-23,Summer,92,A*,3,T06,A*
+1543,S030,Physics,2022-23,Autumn,84,A,3,T07,A
+1544,S030,Physics,2022-23,Spring,62,C,4,T07,C
+1545,S030,Physics,2022-23,Summer,92,A*,4,T07,A*
+1546,S030,History,2022-23,Autumn,99,A*,3,T08,A*
+1547,S030,History,2022-23,Spring,85,A,1,T08,A
+1548,S030,History,2022-23,Summer,83,A,4,T08,A
+1549,S030,Geography,2022-23,Autumn,74,B,3,T09,B
+1550,S030,Geography,2022-23,Spring,84,A,3,T09,A
+1551,S030,Geography,2022-23,Summer,78,B,3,T09,A
+1552,S030,French,2022-23,Autumn,83,A,4,T10,A*
+1553,S030,French,2022-23,Spring,98,A*,3,T10,A*
+1554,S030,French,2022-23,Summer,86,A,3,T10,A
+1555,S030,Computing,2022-23,Autumn,83,A,4,T11,A
+1556,S030,Computing,2022-23,Spring,81,A,3,T11,A
+1557,S030,Computing,2022-23,Summer,67,C,2,T11,B
+1558,S030,Art & Design,2022-23,Autumn,90,A*,4,T12,A*
+1559,S030,Art & Design,2022-23,Spring,98,A*,3,T12,A*
+1560,S030,Art & Design,2022-23,Summer,89,A,3,T12,A*
+1561,S030,Mathematics,2023-24,Autumn,91,A*,4,T02,A*
+1562,S030,Mathematics,2023-24,Spring,91,A*,4,T02,A*
+1563,S030,Mathematics,2023-24,Summer,92,A*,1,T02,A
+1564,S030,English Language,2023-24,Autumn,100,A*,3,T03,A*
+1565,S030,English Language,2023-24,Spring,90,A*,3,T04,A*
+1566,S030,English Language,2023-24,Summer,84,A,2,T04,A
+1567,S030,Biology,2023-24,Autumn,87,A,5,T05,A*
+1568,S030,Biology,2023-24,Spring,100,A*,5,T05,A*
+1569,S030,Biology,2023-24,Summer,78,B,2,T05,A*
+1570,S030,Chemistry,2023-24,Autumn,100,A*,3,T06,A*
+1571,S030,Chemistry,2023-24,Spring,88,A,3,T06,A
+1572,S030,Chemistry,2023-24,Summer,85,A,3,T06,A
+1573,S030,Physics,2023-24,Autumn,87,A,5,T07,A*
+1574,S030,Physics,2023-24,Spring,83,A,4,T07,A
+1575,S030,Physics,2023-24,Summer,71,B,5,T07,C
+1576,S030,History,2023-24,Autumn,97,A*,3,T08,A*
+1577,S030,History,2023-24,Spring,90,A*,5,T08,A*
+1578,S030,History,2023-24,Summer,77,B,5,T08,A
+1579,S030,Geography,2023-24,Autumn,87,A,5,T09,B
+1580,S030,Geography,2023-24,Spring,88,A,2,T09,A
+1581,S030,Geography,2023-24,Summer,,,,T09,A
+1582,S030,French,2023-24,Autumn,98,A*,4,T10,A*
+1583,S030,French,2023-24,Spring,90,A*,4,T10,A*
+1584,S030,French,2023-24,Summer,83,A,4,T10,A
+1585,S030,Computing,2023-24,Autumn,91,A*,4,T11,A*
+1586,S030,Computing,2023-24,Spring,92,A*,5,T11,A*
+1587,S030,Computing,2023-24,Summer,90,A*,3,T11,A*
+1588,S030,Art & Design,2023-24,Autumn,,,,T12,A*
+1589,S030,Art & Design,2023-24,Spring,84,A,4,T12,A*
+1590,S030,Art & Design,2023-24,Summer,85,A,4,T12,A
+1591,S030,Mathematics,2024-25,Autumn,79,B,3,T02,A
+1592,S030,Mathematics,2024-25,Spring,83,A,3,T02,A*
+1593,S030,Mathematics,2024-25,Summer,84,A,3,T02,A
+1594,S030,English Language,2024-25,Autumn,,,,T03,A*
+1595,S030,English Language,2024-25,Spring,93,A*,5,T03,A*
+1596,S030,English Language,2024-25,Summer,78,B,4,T04,B
+1597,S030,Biology,2024-25,Autumn,,,,T05,A*
+1598,S030,Biology,2024-25,Spring,85,A,5,T05,A
+1599,S030,Biology,2024-25,Summer,87,A,4,T05,A*
+1600,S030,Chemistry,2024-25,Autumn,100,A*,4,T06,A*
+1601,S030,Chemistry,2024-25,Spring,85,A,2,T06,A*
+1602,S030,Chemistry,2024-25,Summer,88,A,4,T06,A
+1603,S030,Physics,2024-25,Autumn,83,A,4,T07,A
+1604,S030,Physics,2024-25,Spring,96,A*,4,T07,A*
+1605,S030,Physics,2024-25,Summer,85,A,5,T07,A
+1606,S030,History,2024-25,Autumn,88,A,4,T08,A*
+1607,S030,History,2024-25,Spring,96,A*,4,T08,A*
+1608,S030,History,2024-25,Summer,99,A*,4,T08,A*
+1609,S030,Geography,2024-25,Autumn,84,A,3,T09,B
+1610,S030,Geography,2024-25,Spring,87,A,2,T09,A*
+1611,S030,Geography,2024-25,Summer,82,A,5,T09,A
+1612,S030,French,2024-25,Autumn,83,A,4,T10,A*
+1613,S030,French,2024-25,Spring,71,B,5,T10,B
+1614,S030,French,2024-25,Summer,92,A*,2,T10,A
+1615,S030,Computing,2024-25,Autumn,100,A*,3,T11,A*
+1616,S030,Computing,2024-25,Spring,78,B,4,T11,A
+1617,S030,Computing,2024-25,Summer,95,A*,1,T11,A*
+1618,S030,Art & Design,2024-25,Autumn,91,A*,5,T12,A*
+1619,S030,Art & Design,2024-25,Spring,88,A,5,T12,A*
+1620,S030,Art & Design,2024-25,Summer,79,B,3,T12,A*

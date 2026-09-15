@@ -1,0 +1,15 @@
+teacher_id,first_name,last_name,subject,department,years_experience,is_form_tutor,email
+T01,Sarah,Matthews,Mathematics,STEM,12,Yes,s.matthews@school.ac.uk
+T02,James,Okoye,Mathematics,STEM,5,No,j.okoye@school.ac.uk
+T03,Priya,Sharma,English Language,Humanities,8,Yes,p.sharma@school.ac.uk
+T04,David,Chen,English Literature,Humanities,15,No,d.chen@school.ac.uk
+T05,Emma,Thornton,Biology,Science,10,Yes,e.thornton@school.ac.uk
+T06,Liam,Foster,Chemistry,Science,7,No,l.foster@school.ac.uk
+T07,Aisha,Patel,Physics,Science,9,Yes,a.patel@school.ac.uk
+T08,Robert,Williams,History,Humanities,20,Yes,r.williams@school.ac.uk
+T09,Hannah,Griffiths,Geography,Humanities,4,No,h.griffiths@school.ac.uk
+T10,Carlos,Mendez,French,Languages,11,Yes,c.mendez@school.ac.uk
+T11,Fatima,Al-Hassan,Computing,STEM,6,No,f.alhassan@school.ac.uk
+T12,Sophie,Clarke,Art & Design,Creative,13,Yes,s.clarke@school.ac.uk
+T13,Ben,Harrison,PE,Sport,8,No,b.harrison@school.ac.uk
+T14,Nkechi,Adeyemi,RE,Humanities,3,Yes,n.adeyemi@school.ac.uk
